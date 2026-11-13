@@ -1,0 +1,97 @@
+{
+  "//": "Not loaded by the app. These are the aircraft.json values for the built-in placeholder airliner: copy them over the same keys in aircraft.json, delete its \"fuselage\" block, and copy mapping.placeholder.json over mapping.json.",
+  "model": "placeholder",
+  "frame": {
+    "scale": 1,
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "offset": [
+      0,
+      0,
+      0
+    ]
+  },
+  "surfaces": {
+    "wing": {
+      "rootLE": [
+        12.6,
+        2.6,
+        1.2
+      ],
+      "rootChord": 6.1,
+      "tipLE": [
+        20.3,
+        4.3,
+        17.05
+      ],
+      "tipChord": 1.5,
+      "thickness": [
+        0.14,
+        0.11
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "mirror": true
+    },
+    "hstab": {
+      "rootLE": [
+        31.9,
+        5.25,
+        0.6
+      ],
+      "rootChord": 3.6,
+      "tipLE": [
+        35.2,
+        5.75,
+        6.225
+      ],
+      "tipChord": 1.35,
+      "thickness": [
+        0.11,
+        0.09
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "mirror": true
+    },
+    "fin": {
+      "rootLE": [
+        29.9,
+        5.3,
+        0
+      ],
+      "rootChord": 5.9,
+      "tipLE": [
+        34.5,
+        11.95,
+        0
+      ],
+      "tipChord": 2,
+      "thickness": [
+        0.12,
+        0.1
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  "credits": [
+    {
+      "title": "Procedural placeholder airliner",
+      "author": "built in code for this demo, to published A320 dimensions",
+      "license": "project code"
+    }
+  ]
+}

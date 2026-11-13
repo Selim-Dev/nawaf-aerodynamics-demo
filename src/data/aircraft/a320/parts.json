@@ -1,0 +1,2731 @@
+{
+  "parts": [
+    {
+      "id": "radome",
+      "kind": "exterior",
+      "system": "airframe",
+      "name": {
+        "en": "Radome",
+        "ar": "القبة الأنفية (Radome)"
+      },
+      "short": {
+        "en": "The nose cone that protects the weather radar antenna.",
+        "ar": "مخروط المقدمة الذي يحمي هوائي رادار الطقس."
+      },
+      "details": {
+        "en": [
+          "The radome is made of composite material that radio waves can pass through, so the weather radar behind it can scan the sky ahead for storms and turbulence.",
+          "It hinges open for maintenance. Because it is the first part to meet the airflow, it is regularly inspected for bird strikes, hail damage and lightning marks."
+        ],
+        "ar": [
+          "تُصنع القبة الأنفية من مواد مركّبة تسمح بمرور موجات الراديو، حتى يتمكن رادار الطقس خلفها من مسح الأجواء أمام الطائرة بحثاً عن العواصف والاضطرابات.",
+          "تُفتح على مفصّلات لأعمال الصيانة، ولأنها أول جزء يواجه تيار الهواء تُفحص بانتظام بحثاً عن آثار اصطدام الطيور أو البَرَد أو الصواعق."
+        ]
+      },
+      "location": {
+        "en": "Front tip of the fuselage",
+        "ar": "الطرف الأمامي لجسم الطائرة"
+      }
+    },
+    {
+      "id": "cockpit",
+      "kind": "exterior",
+      "system": "airframe",
+      "name": {
+        "en": "Cockpit",
+        "ar": "قمرة القيادة (Cockpit)"
+      },
+      "short": {
+        "en": "The flight deck where the two pilots fly and manage the aircraft.",
+        "ar": "مقصورة القيادة التي يقود منها الطياران الطائرة ويديران أنظمتها."
+      },
+      "details": {
+        "en": [
+          "The A320 was the first airliner with digital fly-by-wire controls and side-stick controllers instead of a central control column.",
+          "Six main display screens show flight instruments, navigation and the ECAM system pages that report the status of every system and guide the crew through failures."
+        ],
+        "ar": [
+          "كانت A320 أول طائرة ركاب تستخدم نظام التحكم الرقمي بالإشارات الكهربائية (Fly-by-Wire) مع عصا تحكم جانبية (Side-stick) بدلاً من عمود التحكم التقليدي.",
+          "تعرض ست شاشات رئيسية أجهزة الطيران والملاحة وصفحات نظام ECAM التي تبيّن حالة كل نظام وترشد الطاقم خلال الأعطال."
+        ]
+      },
+      "location": {
+        "en": "Upper forward fuselage, behind the radome",
+        "ar": "الجزء العلوي الأمامي من جسم الطائرة خلف القبة الأنفية"
+      }
+    },
+    {
+      "id": "fuselage",
+      "kind": "exterior",
+      "system": "airframe",
+      "name": {
+        "en": "Fuselage",
+        "ar": "جسم الطائرة (Fuselage)"
+      },
+      "short": {
+        "en": "The main body that carries the crew, passengers and cargo.",
+        "ar": "الجسم الرئيسي الذي يحمل الطاقم والركاب والبضائع."
+      },
+      "details": {
+        "en": [
+          "The fuselage is a pressurised, semi-monocoque aluminium structure: a skin stiffened by circular frames and lengthwise stringers. It is about 3.95 m wide.",
+          "The cabin is above the floor and typically seats 150 to 180 passengers. Below the floor are the cargo holds, the avionics compartment and the bays for the landing gear."
+        ],
+        "ar": [
+          "جسم الطائرة هيكل مضغوط من سبائك الألومنيوم من النوع شبه الأحادي (Semi-monocoque)، أي قشرة خارجية مدعّمة بإطارات دائرية وأعصاب طولية، ويبلغ عرضه نحو 3.95 متر.",
+          "تقع مقصورة الركاب فوق الأرضية وتتسع عادةً لـ 150 إلى 180 راكباً، بينما تقع تحت الأرضية عنابر الشحن وحجرة الإلكترونيات وتجاويف عجلات الهبوط."
+        ]
+      }
+    },
+    {
+      "id": "wings",
+      "kind": "exterior",
+      "system": "airframe",
+      "name": {
+        "en": "Wings",
+        "ar": "الأجنحة (Wings)"
+      },
+      "short": {
+        "en": "Produce the lift that keeps the aircraft in the air, and hold most of the fuel.",
+        "ar": "تولّد قوة الرفع التي تُبقي الطائرة في الجو، وتحمل معظم الوقود."
+      },
+      "details": {
+        "en": [
+          "Each wing is built around a box of front and rear spars, ribs and skin panels. The wing is swept back about 25 degrees. The span is 34.10 m with wingtip fences, as on this aircraft, or 35.80 m with sharklets.",
+          "The wing box doubles as the fuel tanks. The movable surfaces on its edges, slats, flaps, ailerons and spoilers, change lift and drag for take-off, landing and turns."
+        ],
+        "ar": [
+          "يُبنى كل جناح حول صندوق مكوّن من عارضتين أمامية وخلفية (Spars) وأضلاع (Ribs) وألواح قشرة. ويميل الجناح للخلف بنحو 25 درجة، ويبلغ امتداد الجناحين 34.10 متر بحواجز الأطراف كما في هذه الطائرة، أو 35.80 متر مع أطراف Sharklets.",
+          "يُستخدم صندوق الجناح نفسه خزاناً للوقود، أما الأسطح المتحركة على حوافه، مثل الشرائح الأمامية والقلابات والجنيحات ومُفسدات الرفع، فتغيّر الرفع والمقاومة أثناء الإقلاع والهبوط والانعطاف."
+        ]
+      }
+    },
+    {
+      "id": "slats",
+      "kind": "exterior",
+      "system": "flight-controls",
+      "name": {
+        "en": "Slats",
+        "ar": "الشرائح الأمامية (Slats)"
+      },
+      "short": {
+        "en": "Leading-edge panels that slide forward to allow slower, safer flight.",
+        "ar": "ألواح على الحافة الأمامية للجناح تمتد للأمام لتسمح بالطيران بسرعات أقل بأمان."
+      },
+      "details": {
+        "en": [
+          "There are five slats on each wing. When extended they increase the curvature of the wing and delay the stall, so the aircraft can fly slowly for take-off and landing.",
+          "They are moved by the same flap lever as the flaps and are driven by hydraulic power from the Green and Blue systems."
+        ],
+        "ar": [
+          "يوجد خمس شرائح على كل جناح، وعند مدّها تزيد انحناء الجناح وتؤخّر حدوث الانهيار (Stall)، فتتمكن الطائرة من الطيران ببطء أثناء الإقلاع والهبوط.",
+          "تتحرك بواسطة ذراع القلابات نفسه، وتعمل بالقدرة الهيدروليكية من النظامين الأخضر والأزرق."
+        ]
+      },
+      "location": {
+        "en": "Leading edge of each wing",
+        "ar": "الحافة الأمامية لكل جناح"
+      }
+    },
+    {
+      "id": "flaps",
+      "kind": "exterior",
+      "system": "flight-controls",
+      "name": {
+        "en": "Flaps",
+        "ar": "القلابات (Flaps)"
+      },
+      "short": {
+        "en": "Trailing-edge surfaces that extend to add lift at low speed.",
+        "ar": "أسطح على الحافة الخلفية للجناح تمتد لزيادة الرفع عند السرعات المنخفضة."
+      },
+      "details": {
+        "en": [
+          "Each wing has two Fowler-type flaps that move aft and down, increasing both the wing area and its curvature.",
+          "The pilots select positions 0, 1, 2, 3 or FULL with the flap lever. The flaps are driven by hydraulic power from the Green and Yellow systems."
+        ],
+        "ar": [
+          "يحتوي كل جناح على قلابين من نوع فاولر (Fowler) يتحركان للخلف وللأسفل، فيزيدان مساحة الجناح وانحناءه معاً.",
+          "يختار الطيارون الأوضاع 0 أو 1 أو 2 أو 3 أو FULL بواسطة ذراع القلابات، وتعمل القلابات بالقدرة الهيدروليكية من النظامين الأخضر والأصفر."
+        ]
+      },
+      "location": {
+        "en": "Inboard trailing edge of each wing",
+        "ar": "الجزء الداخلي من الحافة الخلفية لكل جناح"
+      }
+    },
+    {
+      "id": "ailerons",
+      "kind": "exterior",
+      "system": "flight-controls",
+      "name": {
+        "en": "Ailerons",
+        "ar": "الجنيحات (Ailerons)"
+      },
+      "short": {
+        "en": "Control surfaces that roll the aircraft to bank into a turn.",
+        "ar": "أسطح تحكم تُميل الطائرة حول محورها الطولي لتنفيذ الانعطاف."
+      },
+      "details": {
+        "en": [
+          "When one aileron goes up, the other goes down, so one wing gains lift and the other loses it and the aircraft rolls.",
+          "On the A320 the ailerons are assisted by spoilers 2 to 5 for roll control. Each aileron has two hydraulic actuators, one from the Green system and one from the Blue."
+        ],
+        "ar": [
+          "عندما يرتفع أحد الجنيحين ينخفض الآخر، فيزداد رفع أحد الجناحين ويقل رفع الآخر، فتميل الطائرة.",
+          "في A320 تساعد مُفسدات الرفع من 2 إلى 5 الجنيحات في التحكم بالميلان، ولكل جنيح مشغّلان هيدروليكيان، أحدهما من النظام الأخضر والآخر من الأزرق."
+        ]
+      },
+      "location": {
+        "en": "Outboard trailing edge of each wing",
+        "ar": "الجزء الخارجي من الحافة الخلفية لكل جناح"
+      }
+    },
+    {
+      "id": "wingtips",
+      "kind": "exterior",
+      "system": "airframe",
+      "name": {
+        "en": "Wingtip fences",
+        "ar": "حواجز أطراف الجناح (Wingtip Fences)"
+      },
+      "short": {
+        "en": "Small vertical surfaces at each wingtip that reduce drag and fuel burn.",
+        "ar": "أسطح رأسية صغيرة عند طرفي الجناحين تقلل المقاومة واستهلاك الوقود."
+      },
+      "details": {
+        "en": [
+          "Air flows around the wingtip from the high-pressure underside to the low-pressure top and forms a vortex that wastes energy. The fence, which extends above and below the wingtip, weakens that vortex.",
+          "Newer A320s have taller sharklets instead: about 2.4 m high, they increase the span from 34.10 m to 35.80 m and save up to about 4% fuel on longer flights."
+        ],
+        "ar": [
+          "يلتف الهواء حول طرف الجناح من أسفله حيث الضغط مرتفع إلى أعلاه حيث الضغط منخفض، فتتكوّن دوامة تهدر الطاقة، ويعمل الحاجز الممتد أعلى طرف الجناح وأسفله على إضعاف هذه الدوامة.",
+          "أما طرازات A320 الأحدث فتستخدم بدلاً منه أطرافاً أطول تسمى Sharklets، يبلغ ارتفاعها نحو 2.4 متر، وتزيد امتداد الجناحين من 34.10 إلى 35.80 متر، وتوفّر حتى نحو 4% من الوقود في الرحلات الأطول."
+        ]
+      },
+      "location": {
+        "en": "Tip of each wing",
+        "ar": "طرف كل جناح"
+      }
+    },
+    {
+      "id": "engine-1",
+      "kind": "exterior",
+      "system": "powerplant",
+      "name": {
+        "en": "Engine 1 (left)",
+        "ar": "المحرك رقم 1 (الأيسر)"
+      },
+      "short": {
+        "en": "High-bypass turbofan that provides thrust and powers aircraft systems.",
+        "ar": "محرك مروحي توربيني عالي الالتفاف يولّد الدفع ويزوّد أنظمة الطائرة بالطاقة."
+      },
+      "details": {
+        "en": [
+          "The A320 family flies with CFM56 or IAE V2500 engines (A320ceo) or with CFM LEAP-1A or Pratt & Whitney PW1100G engines (A320neo). Most of the thrust comes from the large front fan.",
+          "Besides thrust, each engine drives a hydraulic pump and an electrical generator through its accessory gearbox, and supplies bleed air for air conditioning and anti-ice. A digital FADEC computer controls it."
+        ],
+        "ar": [
+          "تعمل عائلة A320 بمحركات CFM56 أو IAE V2500 في طراز A320ceo، أو بمحركات CFM LEAP-1A أو Pratt & Whitney PW1100G في طراز A320neo، ويأتي معظم الدفع من المروحة الأمامية الكبيرة.",
+          "إلى جانب الدفع، يدير كل محرك مضخة هيدروليكية ومولداً كهربائياً عبر صندوق التروس الملحقة، ويوفّر الهواء المسحوب (Bleed Air) للتكييف ومنع التجمد، ويتحكم فيه حاسوب رقمي يسمى FADEC."
+        ]
+      },
+      "location": {
+        "en": "Under the left wing",
+        "ar": "أسفل الجناح الأيسر"
+      },
+      "subModel": null
+    },
+    {
+      "id": "engine-2",
+      "kind": "exterior",
+      "system": "powerplant",
+      "name": {
+        "en": "Engine 2 (right)",
+        "ar": "المحرك رقم 2 (الأيمن)"
+      },
+      "short": {
+        "en": "The right-hand engine, identical to engine 1.",
+        "ar": "المحرك الأيمن، وهو مطابق للمحرك رقم 1."
+      },
+      "details": {
+        "en": [
+          "Engines are numbered from left to right as seen from the cockpit, so engine 2 is under the right wing.",
+          "Engine 2 drives the Yellow hydraulic pump and the second generator, while engine 1 drives the Green hydraulic pump and the first generator. This split keeps systems available if one engine fails."
+        ],
+        "ar": [
+          "تُرقَّم المحركات من اليسار إلى اليمين كما تُرى من قمرة القيادة، لذا يقع المحرك رقم 2 أسفل الجناح الأيمن.",
+          "يدير المحرك رقم 2 المضخة الهيدروليكية للنظام الأصفر والمولد الثاني، بينما يدير المحرك رقم 1 مضخة النظام الأخضر والمولد الأول، وهذا التوزيع يحافظ على توفر الأنظمة عند تعطل أحد المحركين."
+        ]
+      },
+      "location": {
+        "en": "Under the right wing",
+        "ar": "أسفل الجناح الأيمن"
+      },
+      "subModel": null
+    },
+    {
+      "id": "horizontal-stabilizer",
+      "kind": "exterior",
+      "system": "empennage",
+      "name": {
+        "en": "Horizontal stabiliser (THS)",
+        "ar": "المثبت الأفقي (THS)"
+      },
+      "short": {
+        "en": "The small tail wing that keeps the aircraft stable in pitch.",
+        "ar": "الجناح الخلفي الصغير الذي يحافظ على استقرار الطائرة في حركة رفع وخفض المقدمة."
+      },
+      "details": {
+        "en": [
+          "On the A320 the whole horizontal stabiliser moves to trim the aircraft in pitch, so it is called the Trimmable Horizontal Stabiliser (THS).",
+          "A screw jack driven by hydraulic motors moves it, and the flight control computers trim it automatically. The pilots can also move it with the mechanical trim wheels in the cockpit."
+        ],
+        "ar": [
+          "في A320 يتحرك المثبت الأفقي بأكمله لموازنة الطائرة في حركة الميل الطولي، لذلك يسمى المثبت الأفقي القابل للموازنة (THS).",
+          "يحرّكه مشغّل لولبي (Screw Jack) تديره محركات هيدروليكية، وتقوم حواسيب التحكم بالموازنة تلقائياً، كما يمكن للطيارين تحريكه بعجلات الموازنة الميكانيكية في قمرة القيادة."
+        ]
+      },
+      "location": {
+        "en": "Tail, either side of the rear fuselage",
+        "ar": "الذيل، على جانبي مؤخرة جسم الطائرة"
+      }
+    },
+    {
+      "id": "elevators",
+      "kind": "exterior",
+      "system": "flight-controls",
+      "name": {
+        "en": "Elevators",
+        "ar": "الروافع (Elevators)"
+      },
+      "short": {
+        "en": "Hinged surfaces on the tail that pitch the nose up or down.",
+        "ar": "أسطح مفصلية على الذيل ترفع مقدمة الطائرة أو تخفضها."
+      },
+      "details": {
+        "en": [
+          "Pulling back on the side-stick raises the elevators, which pushes the tail down and the nose up.",
+          "Each elevator is powered by actuators from more than one hydraulic system, so a single hydraulic failure does not cause a loss of pitch control."
+        ],
+        "ar": [
+          "عند سحب عصا التحكم الجانبية للخلف ترتفع الروافع، فينخفض الذيل وترتفع المقدمة.",
+          "يعمل كل رافع بمشغّلات من أكثر من نظام هيدروليكي، حتى لا يؤدي تعطل نظام واحد إلى فقدان التحكم في الميل الطولي."
+        ]
+      },
+      "location": {
+        "en": "Trailing edge of the horizontal stabiliser",
+        "ar": "الحافة الخلفية للمثبت الأفقي"
+      }
+    },
+    {
+      "id": "vertical-stabilizer",
+      "kind": "exterior",
+      "system": "empennage",
+      "name": {
+        "en": "Vertical stabiliser (fin)",
+        "ar": "المثبت العمودي (الزعنفة)"
+      },
+      "short": {
+        "en": "The tail fin that keeps the aircraft pointing straight ahead.",
+        "ar": "زعنفة الذيل التي تحافظ على اتجاه الطائرة إلى الأمام."
+      },
+      "details": {
+        "en": [
+          "The fin gives the aircraft directional stability: if the nose swings sideways, the airflow on the fin pushes it back.",
+          "On the A320 the fin is made of carbon-fibre composite, which is light and does not corrode."
+        ],
+        "ar": [
+          "تمنح الزعنفة الطائرة الاستقرار الاتجاهي، فإذا انحرفت المقدمة جانباً دفعها الهواء المار على الزعنفة إلى اتجاهها الصحيح.",
+          "في A320 تُصنع الزعنفة من مادة مركّبة من ألياف الكربون، وهي خفيفة ولا تتآكل."
+        ]
+      },
+      "location": {
+        "en": "Top of the rear fuselage",
+        "ar": "أعلى مؤخرة جسم الطائرة"
+      }
+    },
+    {
+      "id": "rudder",
+      "kind": "exterior",
+      "system": "flight-controls",
+      "name": {
+        "en": "Rudder",
+        "ar": "الدفة (Rudder)"
+      },
+      "short": {
+        "en": "The hinged surface on the fin that turns the nose left or right.",
+        "ar": "السطح المفصلي على الزعنفة الذي يوجّه المقدمة يميناً أو يساراً."
+      },
+      "details": {
+        "en": [
+          "The pilots move the rudder with the pedals. It is used mainly to keep the aircraft straight in a crosswind and if an engine fails.",
+          "The rudder is moved by three hydraulic servo actuators, one from each hydraulic system (Green, Blue and Yellow)."
+        ],
+        "ar": [
+          "يحرّك الطيارون الدفة بواسطة الدواسات، وتُستخدم أساساً للحفاظ على استقامة الطائرة عند الرياح الجانبية أو عند تعطل أحد المحركين.",
+          "تتحرك الدفة بثلاثة مشغّلات هيدروليكية، واحد من كل نظام هيدروليكي (الأخضر والأزرق والأصفر)."
+        ]
+      },
+      "location": {
+        "en": "Trailing edge of the fin",
+        "ar": "الحافة الخلفية للزعنفة"
+      }
+    },
+    {
+      "id": "nose-gear",
+      "kind": "exterior",
+      "system": "landing-gear",
+      "name": {
+        "en": "Nose landing gear",
+        "ar": "عجلات الهبوط الأمامية"
+      },
+      "short": {
+        "en": "The steerable front gear with two wheels.",
+        "ar": "عجلات الهبوط الأمامية القابلة للتوجيه، وتتكون من عجلتين."
+      },
+      "details": {
+        "en": [
+          "The nose gear carries a shock-absorbing leg and two wheels, and retracts forward into a bay under the cockpit.",
+          "It is steered hydraulically. A tiller in the cockpit turns it up to 75 degrees for taxiing, and the rudder pedals give small corrections during the take-off and landing roll."
+        ],
+        "ar": [
+          "تتكون عجلات الهبوط الأمامية من ساق ماصة للصدمات وعجلتين، وتنطوي للأمام داخل تجويف أسفل قمرة القيادة.",
+          "تُوجَّه هيدروليكياً، إذ يديرها مقبض توجيه (Tiller) في قمرة القيادة حتى 75 درجة أثناء السير على الأرض، وتعطي الدواسات تصحيحات صغيرة أثناء الإقلاع والهبوط."
+        ]
+      },
+      "location": {
+        "en": "Under the forward fuselage",
+        "ar": "أسفل الجزء الأمامي من جسم الطائرة"
+      }
+    },
+    {
+      "id": "main-gear",
+      "kind": "exterior",
+      "system": "landing-gear",
+      "name": {
+        "en": "Main landing gear",
+        "ar": "عجلات الهبوط الرئيسية"
+      },
+      "short": {
+        "en": "Two gear legs under the wings that carry most of the aircraft's weight.",
+        "ar": "ساقا هبوط تحت الجناحين تحملان معظم وزن الطائرة."
+      },
+      "details": {
+        "en": [
+          "Each main gear leg has two wheels with carbon brakes and anti-skid protection. The legs retract sideways, inboard, into bays in the belly of the fuselage.",
+          "Retraction and extension use the Green hydraulic system. If hydraulics are lost, a handle in the cockpit releases the gear so it falls down and locks under gravity."
+        ],
+        "ar": [
+          "لكل ساق رئيسية عجلتان مزودتان بمكابح كربونية ونظام منع الانزلاق، وتنطوي الساقان جانبياً نحو الداخل في تجاويف ببطن جسم الطائرة.",
+          "يتم الطيّ والإنزال بالنظام الهيدروليكي الأخضر، وعند فقدان الضغط الهيدروليكي يحرر مقبض في قمرة القيادة العجلات لتنزل وتُقفل بفعل الجاذبية."
+        ]
+      },
+      "location": {
+        "en": "Under the wing roots",
+        "ar": "أسفل جذري الجناحين"
+      }
+    },
+    {
+      "id": "passenger-doors",
+      "kind": "exterior",
+      "system": "doors",
+      "name": {
+        "en": "Passenger doors",
+        "ar": "أبواب الركاب"
+      },
+      "short": {
+        "en": "Four main doors, two on each side, each with an emergency slide.",
+        "ar": "أربعة أبواب رئيسية، اثنان على كل جانب، ولكل منها منزلق طوارئ."
+      },
+      "details": {
+        "en": [
+          "The doors are plug-type: cabin pressure pushes them against their frames in flight, so they cannot be opened at altitude. To open, each door lifts, moves outward and swings forward.",
+          "Each door has an escape slide. Before departure the crew arms the slides, so opening the door in an emergency inflates the slide automatically."
+        ],
+        "ar": [
+          "الأبواب من النوع السدّادي (Plug-type)، إذ يضغطها ضغط المقصورة على إطاراتها أثناء الطيران فلا يمكن فتحها على الارتفاعات العالية، وعند الفتح يرتفع الباب ثم يتحرك للخارج ويدور للأمام.",
+          "لكل باب منزلق إخلاء، ويقوم الطاقم بتسليح المنزلقات قبل المغادرة، فإذا فُتح الباب في حالة طوارئ انتفخ المنزلق تلقائياً."
+        ]
+      },
+      "location": {
+        "en": "Front and rear of the cabin, on both sides",
+        "ar": "مقدمة المقصورة ومؤخرتها، على الجانبين"
+      }
+    },
+    {
+      "id": "emergency-exits",
+      "kind": "exterior",
+      "system": "doors",
+      "name": {
+        "en": "Overwing emergency exits",
+        "ar": "مخارج الطوارئ فوق الجناح"
+      },
+      "short": {
+        "en": "Smaller exits over the wings for evacuation.",
+        "ar": "مخارج أصغر فوق الجناحين تُستخدم في الإخلاء."
+      },
+      "details": {
+        "en": [
+          "The A320 has two overwing exits on each side. Passengers leave through them onto the wing and slide down to the ground.",
+          "Passengers seated in these rows must be able and willing to open the exit, which is why airlines brief them before take-off."
+        ],
+        "ar": [
+          "تحتوي A320 على مخرجين فوق الجناح في كل جانب، يخرج منهما الركاب إلى سطح الجناح ثم ينزلقون إلى الأرض.",
+          "يجب أن يكون الركاب الجالسون في هذه الصفوف قادرين على فتح المخرج ومستعدين لذلك، ولهذا تقدّم لهم شركات الطيران شرحاً قبل الإقلاع."
+        ]
+      },
+      "location": {
+        "en": "Above the wings, both sides",
+        "ar": "فوق الجناحين، على الجانبين"
+      }
+    },
+    {
+      "id": "cargo-doors",
+      "kind": "exterior",
+      "system": "doors",
+      "name": {
+        "en": "Cargo doors",
+        "ar": "أبواب عنابر الشحن"
+      },
+      "short": {
+        "en": "Doors to the forward, aft and bulk cargo holds under the cabin floor.",
+        "ar": "أبواب تؤدي إلى عنابر الشحن الأمامي والخلفي والسائب أسفل أرضية المقصورة."
+      },
+      "details": {
+        "en": [
+          "The forward, aft and bulk cargo doors are all on the right-hand side, so baggage can be loaded while passengers board on the left. The two main doors are about 1.8 m wide and open upward.",
+          "They are opened by the Yellow hydraulic system. A hand pump allows them to be operated without electrical power."
+        ],
+        "ar": [
+          "تقع أبواب الشحن الأمامي والخلفي وباب البضائع السائبة كلها على الجانب الأيمن، بحيث يمكن تحميل الأمتعة بينما يصعد الركاب من الجانب الأيسر، ويبلغ عرض البابين الرئيسيين نحو 1.8 متر ويُفتحان للأعلى.",
+          "تُفتح بواسطة النظام الهيدروليكي الأصفر، وتسمح مضخة يدوية بتشغيلها دون طاقة كهربائية."
+        ]
+      },
+      "location": {
+        "en": "Lower right side of the fuselage",
+        "ar": "الجانب الأيمن السفلي من جسم الطائرة"
+      }
+    },
+    {
+      "id": "apu",
+      "kind": "exterior",
+      "system": "powerplant",
+      "name": {
+        "en": "Auxiliary power unit (APU)",
+        "ar": "وحدة الطاقة المساعدة (APU)"
+      },
+      "short": {
+        "en": "A small gas-turbine engine in the tail that supplies power on the ground.",
+        "ar": "محرك توربيني غازي صغير في الذيل يوفّر الطاقة على الأرض."
+      },
+      "details": {
+        "en": [
+          "The APU provides compressed air for air conditioning and for starting the main engines, and drives a generator for electrical power, so the aircraft does not need ground equipment.",
+          "It can also be used in flight as a back-up power source. Its exhaust is the small opening at the very end of the tail cone."
+        ],
+        "ar": [
+          "توفّر وحدة APU الهواء المضغوط للتكييف ولتشغيل المحركات الرئيسية، وتدير مولداً للطاقة الكهربائية، فلا تحتاج الطائرة إلى معدات أرضية.",
+          "يمكن استخدامها أيضاً أثناء الطيران مصدراً احتياطياً للطاقة، وفتحة عادمها هي الفتحة الصغيرة في نهاية مخروط الذيل."
+        ]
+      },
+      "location": {
+        "en": "Tail cone",
+        "ar": "مخروط الذيل"
+      }
+    },
+    {
+      "id": "hyd-green-edp",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Green engine-driven pump",
+        "ar": "المضخة الخضراء المُدارة بالمحرك"
+      },
+      "short": {
+        "en": "Pressurises the Green system to 3000 psi when engine 1 is running.",
+        "ar": "تضغط النظام الأخضر إلى 3000 رطل/بوصة² عندما يعمل المحرك رقم 1."
+      },
+      "details": {
+        "en": [
+          "The pump is mounted on the accessory gearbox of engine 1, so it turns whenever the engine turns.",
+          "A fire shut-off valve on its supply line closes when the engine fire pushbutton is pressed, to stop hydraulic fluid feeding a fire."
+        ],
+        "ar": [
+          "تُركَّب المضخة على صندوق التروس الملحقة بالمحرك رقم 1، فتدور كلما دار المحرك.",
+          "يُغلق صمام إطفاء على خط التغذية الخاص بها عند الضغط على زر حريق المحرك، لمنع وصول السائل الهيدروليكي إلى الحريق."
+        ]
+      },
+      "location": {
+        "en": "Engine 1 accessory gearbox",
+        "ar": "صندوق التروس الملحقة بالمحرك رقم 1"
+      }
+    },
+    {
+      "id": "hyd-yellow-edp",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Yellow engine-driven pump",
+        "ar": "المضخة الصفراء المُدارة بالمحرك"
+      },
+      "short": {
+        "en": "Pressurises the Yellow system to 3000 psi when engine 2 is running.",
+        "ar": "تضغط النظام الأصفر إلى 3000 رطل/بوصة² عندما يعمل المحرك رقم 2."
+      },
+      "details": {
+        "en": [
+          "This pump is mounted on the accessory gearbox of engine 2 and is the main pressure source for the Yellow system in flight.",
+          "Like the Green pump, it has a fire shut-off valve on its supply line."
+        ],
+        "ar": [
+          "تُركَّب هذه المضخة على صندوق التروس الملحقة بالمحرك رقم 2، وهي المصدر الرئيسي لضغط النظام الأصفر أثناء الطيران.",
+          "ولها مثل المضخة الخضراء صمام إطفاء على خط التغذية."
+        ]
+      },
+      "location": {
+        "en": "Engine 2 accessory gearbox",
+        "ar": "صندوق التروس الملحقة بالمحرك رقم 2"
+      }
+    },
+    {
+      "id": "hyd-green-reservoir",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Green system reservoir",
+        "ar": "خزان النظام الأخضر"
+      },
+      "short": {
+        "en": "Stores hydraulic fluid for the Green system.",
+        "ar": "يخزّن السائل الهيدروليكي للنظام الأخضر."
+      },
+      "details": {
+        "en": [
+          "Each of the three systems has its own reservoir. The systems are fully independent: fluid is never transferred between them.",
+          "The reservoirs are pressurised with air from the engine bleed system so the pumps always receive fluid without cavitation."
+        ],
+        "ar": [
+          "لكل نظام من الأنظمة الثلاثة خزانه الخاص، والأنظمة مستقلة تماماً فلا يُنقل السائل بينها أبداً.",
+          "تُضغط الخزانات بهواء من نظام الهواء المسحوب من المحركات، حتى تحصل المضخات على السائل دائماً دون تكهّف."
+        ]
+      },
+      "location": {
+        "en": "Main landing gear bay",
+        "ar": "تجويف عجلات الهبوط الرئيسية"
+      }
+    },
+    {
+      "id": "hyd-blue-reservoir",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Blue system reservoir",
+        "ar": "خزان النظام الأزرق"
+      },
+      "short": {
+        "en": "Stores hydraulic fluid for the Blue system.",
+        "ar": "يخزّن السائل الهيدروليكي للنظام الأزرق."
+      },
+      "details": {
+        "en": [
+          "The Blue system has no engine-driven pump. It is pressurised by an electric pump, and in an emergency by the ram air turbine.",
+          "Its reservoir level and pressure are shown on the HYD page of the ECAM display in the cockpit."
+        ],
+        "ar": [
+          "لا توجد في النظام الأزرق مضخة مُدارة بالمحرك، بل يُضغط بمضخة كهربائية، وفي الطوارئ بتوربين الهواء الاحتياطي.",
+          "يظهر مستوى الخزان والضغط في صفحة HYD على شاشة ECAM في قمرة القيادة."
+        ]
+      },
+      "location": {
+        "en": "Belly fairing area",
+        "ar": "منطقة غطاء البطن"
+      }
+    },
+    {
+      "id": "hyd-yellow-reservoir",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Yellow system reservoir",
+        "ar": "خزان النظام الأصفر"
+      },
+      "short": {
+        "en": "Stores hydraulic fluid for the Yellow system.",
+        "ar": "يخزّن السائل الهيدروليكي للنظام الأصفر."
+      },
+      "details": {
+        "en": [
+          "The Yellow reservoir feeds the engine 2 pump, the Yellow electric pump and the hand pump used for the cargo doors.",
+          "Ground crews service the reservoirs from a dedicated ground service panel."
+        ],
+        "ar": [
+          "يغذّي الخزان الأصفر مضخة المحرك رقم 2 والمضخة الكهربائية الصفراء والمضخة اليدوية المستخدمة لأبواب الشحن.",
+          "يقوم الفنيون بتعبئة الخزانات من لوحة خدمة أرضية مخصصة."
+        ]
+      },
+      "location": {
+        "en": "Belly fairing, right side",
+        "ar": "غطاء البطن، الجانب الأيمن"
+      }
+    },
+    {
+      "id": "hyd-blue-elec-pump",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Blue electric pump",
+        "ar": "المضخة الكهربائية الزرقاء"
+      },
+      "short": {
+        "en": "The normal pressure source for the Blue system.",
+        "ar": "المصدر المعتاد لضغط النظام الأزرق."
+      },
+      "details": {
+        "en": [
+          "This AC electric pump runs automatically once an engine is running, and keeps the Blue system at 3000 psi.",
+          "The pilots can switch it off from the overhead hydraulic panel, for example when instructed by an ECAM procedure."
+        ],
+        "ar": [
+          "تعمل هذه المضخة الكهربائية بالتيار المتردد تلقائياً بمجرد تشغيل أحد المحركات، وتحافظ على ضغط النظام الأزرق عند 3000 رطل/بوصة².",
+          "يمكن للطيارين إيقافها من اللوحة الهيدروليكية العلوية، مثلاً عندما يطلب ذلك أحد إجراءات ECAM."
+        ]
+      },
+      "location": {
+        "en": "Belly fairing area",
+        "ar": "منطقة غطاء البطن"
+      }
+    },
+    {
+      "id": "hyd-yellow-elec-pump",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Yellow electric pump",
+        "ar": "المضخة الكهربائية الصفراء"
+      },
+      "short": {
+        "en": "Pressurises the Yellow system without engines running.",
+        "ar": "تضغط النظام الأصفر دون الحاجة إلى تشغيل المحركات."
+      },
+      "details": {
+        "en": [
+          "On the ground it is used to operate the cargo doors and to pressurise the system for maintenance. In flight it is a back-up pressure source.",
+          "Through the power transfer unit it can also pressurise the Green system on the ground."
+        ],
+        "ar": [
+          "تُستخدم على الأرض لتشغيل أبواب الشحن ولضغط النظام لأعمال الصيانة، وتعمل أثناء الطيران مصدراً احتياطياً للضغط.",
+          "ويمكنها أيضاً ضغط النظام الأخضر على الأرض من خلال وحدة نقل القدرة (PTU)."
+        ]
+      },
+      "location": {
+        "en": "Belly fairing, right side",
+        "ar": "غطاء البطن، الجانب الأيمن"
+      }
+    },
+    {
+      "id": "hyd-ptu",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Power transfer unit (PTU)",
+        "ar": "وحدة نقل القدرة (PTU)"
+      },
+      "short": {
+        "en": "Lets the Green and Yellow systems help each other without mixing fluid.",
+        "ar": "تسمح للنظامين الأخضر والأصفر بدعم أحدهما الآخر دون خلط السائل."
+      },
+      "details": {
+        "en": [
+          "The PTU is a hydraulic motor and a hydraulic pump on a common shaft. If the pressure difference between Green and Yellow exceeds about 500 psi, the stronger system drives the shaft and pressurises the weaker one.",
+          "It works in both directions and transfers power, not fluid. Its distinctive barking noise is often heard in the cabin during taxi."
+        ],
+        "ar": [
+          "تتكون الوحدة من محرك هيدروليكي ومضخة هيدروليكية على عمود مشترك، فإذا تجاوز فرق الضغط بين النظامين الأخضر والأصفر نحو 500 رطل/بوصة² أدار النظام الأقوى العمود وضغط النظام الأضعف.",
+          "تعمل في الاتجاهين وتنقل القدرة لا السائل، وصوتها المميز الذي يشبه النباح يُسمع غالباً في المقصورة أثناء السير على الأرض."
+        ]
+      },
+      "location": {
+        "en": "Main landing gear bay",
+        "ar": "تجويف عجلات الهبوط الرئيسية"
+      }
+    },
+    {
+      "id": "hyd-rat",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Ram air turbine (RAT)",
+        "ar": "توربين الهواء الاحتياطي (RAT)"
+      },
+      "short": {
+        "en": "A small propeller that drops into the airflow to provide emergency power.",
+        "ar": "مروحة صغيرة تنزل إلى تيار الهواء لتوفير طاقة الطوارئ."
+      },
+      "details": {
+        "en": [
+          "If both main AC electrical buses lose power in flight, the RAT deploys automatically. It can also be deployed manually from the cockpit.",
+          "The airflow spins its propeller, which drives a pump that pressurises the Blue system. Blue pressure then drives the emergency generator that powers the essential electrical buses."
+        ],
+        "ar": [
+          "إذا فقدت الحافلتان الكهربائيتان الرئيسيتان للتيار المتردد الطاقة أثناء الطيران، ينزل التوربين تلقائياً، ويمكن إنزاله يدوياً من قمرة القيادة أيضاً.",
+          "يدير تيار الهواء مروحته التي تشغّل مضخة تضغط النظام الأزرق، ثم يشغّل ضغط النظام الأزرق مولد الطوارئ الذي يغذّي الحافلات الكهربائية الأساسية."
+        ]
+      },
+      "location": {
+        "en": "Lower fuselage, belly fairing area",
+        "ar": "أسفل جسم الطائرة، منطقة غطاء البطن"
+      }
+    },
+    {
+      "id": "hyd-mlg-actuator",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Main gear retraction actuators",
+        "ar": "مشغّلات طيّ عجلات الهبوط الرئيسية"
+      },
+      "short": {
+        "en": "Hydraulic jacks that raise and lower the main landing gear.",
+        "ar": "رافعات هيدروليكية ترفع عجلات الهبوط الرئيسية وتنزلها."
+      },
+      "details": {
+        "en": [
+          "The gear is retracted and extended by the Green system. Doors close over the bays after retraction to keep the belly smooth.",
+          "If Green pressure is lost, the gear is extended by gravity: a hand crank in the cockpit releases the uplocks and the gear falls and locks down."
+        ],
+        "ar": [
+          "يُطوى الجهاز ويُنزل بواسطة النظام الأخضر، وتُغلق أبواب على التجاويف بعد الطيّ للحفاظ على انسيابية البطن.",
+          "عند فقدان ضغط النظام الأخضر تنزل العجلات بالجاذبية، إذ يحرر ذراع يدوي في قمرة القيادة الأقفال العلوية فتسقط العجلات وتُقفل في وضع الإنزال."
+        ]
+      },
+      "location": {
+        "en": "Main landing gear legs",
+        "ar": "سيقان عجلات الهبوط الرئيسية"
+      }
+    },
+    {
+      "id": "hyd-cargo-door-actuator",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Cargo door actuator",
+        "ar": "مشغّل باب الشحن"
+      },
+      "short": {
+        "en": "Opens and closes the cargo doors using Yellow system pressure.",
+        "ar": "يفتح أبواب الشحن ويغلقها باستخدام ضغط النظام الأصفر."
+      },
+      "details": {
+        "en": [
+          "Ground staff operate the cargo doors from a control on the door. The Yellow electric pump supplies the pressure.",
+          "Without electrical power, the Yellow hand pump can be used to open or close them."
+        ],
+        "ar": [
+          "يشغّل الموظفون الأرضيون أبواب الشحن من مفتاح تحكم على الباب، وتوفّر المضخة الكهربائية الصفراء الضغط اللازم.",
+          "وعند غياب الطاقة الكهربائية يمكن استخدام المضخة اليدوية الصفراء لفتحها أو إغلاقها."
+        ]
+      },
+      "location": {
+        "en": "Forward cargo door",
+        "ar": "باب الشحن الأمامي"
+      }
+    },
+    {
+      "id": "hyd-ths-actuator",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "THS actuator",
+        "ar": "مشغّل المثبت الأفقي (THS)"
+      },
+      "short": {
+        "en": "Screw jack that moves the whole horizontal stabiliser for pitch trim.",
+        "ar": "مشغّل لولبي يحرّك المثبت الأفقي بأكمله لموازنة الميل الطولي."
+      },
+      "details": {
+        "en": [
+          "Two hydraulic motors, one on the Green system and one on the Yellow, turn a ball screw that moves the leading edge of the stabiliser up or down.",
+          "The mechanical trim wheels in the cockpit are connected to the same actuator by cables."
+        ],
+        "ar": [
+          "يدير محركان هيدروليكيان، أحدهما على النظام الأخضر والآخر على الأصفر، عموداً لولبياً يحرّك الحافة الأمامية للمثبت لأعلى أو لأسفل.",
+          "وترتبط عجلات الموازنة الميكانيكية في قمرة القيادة بالمشغّل نفسه عبر كابلات."
+        ]
+      },
+      "location": {
+        "en": "Rear fuselage, under the fin",
+        "ar": "مؤخرة جسم الطائرة، أسفل الزعنفة"
+      }
+    },
+    {
+      "id": "hyd-rudder-servos",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Rudder servo actuators",
+        "ar": "المشغّلات المؤازرة للدفة"
+      },
+      "short": {
+        "en": "Three hydraulic actuators, one per system, that move the rudder.",
+        "ar": "ثلاثة مشغّلات هيدروليكية، واحد لكل نظام، تحرّك الدفة."
+      },
+      "details": {
+        "en": [
+          "All three hydraulic systems reach the tail so the rudder stays controllable even if two systems fail.",
+          "This is why the Green, Blue and Yellow lines all run the length of the fuselage."
+        ],
+        "ar": [
+          "تصل الأنظمة الهيدروليكية الثلاثة جميعها إلى الذيل، حتى تبقى الدفة قابلة للتحكم حتى لو تعطل نظامان.",
+          "ولهذا تمتد خطوط الأنظمة الأخضر والأزرق والأصفر على طول جسم الطائرة."
+        ]
+      },
+      "location": {
+        "en": "Inside the fin, ahead of the rudder",
+        "ar": "داخل الزعنفة، أمام الدفة"
+      }
+    },
+    {
+      "id": "hyd-aileron-servos",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Aileron servo actuators",
+        "ar": "المشغّلات المؤازرة للجنيحات"
+      },
+      "short": {
+        "en": "Two actuators per aileron, fed by the Green and Blue systems.",
+        "ar": "مشغّلان لكل جنيح، يغذّيهما النظامان الأخضر والأزرق."
+      },
+      "details": {
+        "en": [
+          "Normally one actuator drives the aileron and the other follows in damping mode. If the active one fails, the other takes over.",
+          "The flight control computers send the commands electrically. Hydraulics provide the force."
+        ],
+        "ar": [
+          "في الوضع العادي يحرّك أحد المشغّلين الجنيح بينما يتبعه الآخر في وضع التخميد، وإذا تعطل المشغّل النشط تولّى الآخر المهمة.",
+          "ترسل حواسيب التحكم بالطيران الأوامر كهربائياً، بينما توفّر الهيدروليكا القوة اللازمة."
+        ]
+      },
+      "location": {
+        "en": "Wing trailing edge, ahead of each aileron",
+        "ar": "الحافة الخلفية للجناح، أمام كل جنيح"
+      }
+    },
+    {
+      "id": "hyd-green-lines",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Green system lines",
+        "ar": "خطوط النظام الأخضر"
+      },
+      "short": {
+        "en": "Pipes carrying Green fluid from engine 1 to the gear, flight controls and tail.",
+        "ar": "أنابيب تنقل سائل النظام الأخضر من المحرك رقم 1 إلى العجلات وأسطح التحكم والذيل."
+      },
+      "details": {
+        "en": [
+          "Supply lines bring fluid from the reservoir to the pump, and pressure lines carry it at 3000 psi to the users. Return lines bring it back to the reservoir.",
+          "Main Green users include the landing gear, the normal brakes, flight controls and the THS."
+        ],
+        "ar": [
+          "تنقل خطوط التغذية السائل من الخزان إلى المضخة، وتنقله خطوط الضغط عند 3000 رطل/بوصة² إلى الأجهزة المستخدمة، ثم تعيده خطوط الرجوع إلى الخزان.",
+          "من أهم مستخدمي النظام الأخضر عجلات الهبوط والمكابح العادية وأسطح التحكم والمثبت الأفقي."
+        ]
+      }
+    },
+    {
+      "id": "hyd-blue-lines",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Blue system lines",
+        "ar": "خطوط النظام الأزرق"
+      },
+      "short": {
+        "en": "Pipes carrying Blue fluid to the flight controls and the emergency generator.",
+        "ar": "أنابيب تنقل سائل النظام الأزرق إلى أسطح التحكم ومولد الطوارئ."
+      },
+      "details": {
+        "en": [
+          "The Blue system mainly backs up the flight controls. It also drives the emergency generator when the RAT is deployed.",
+          "Its pressure comes from the Blue electric pump or, in an emergency, from the RAT."
+        ],
+        "ar": [
+          "يعمل النظام الأزرق أساساً احتياطياً لأسطح التحكم، كما يشغّل مولد الطوارئ عند إنزال توربين الهواء الاحتياطي.",
+          "يأتي ضغطه من المضخة الكهربائية الزرقاء، أو من توربين الهواء الاحتياطي في الطوارئ."
+        ]
+      }
+    },
+    {
+      "id": "hyd-yellow-lines",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Yellow system lines",
+        "ar": "خطوط النظام الأصفر"
+      },
+      "short": {
+        "en": "Pipes carrying Yellow fluid to the cargo doors, brakes and flight controls.",
+        "ar": "أنابيب تنقل سائل النظام الأصفر إلى أبواب الشحن والمكابح وأسطح التحكم."
+      },
+      "details": {
+        "en": [
+          "Yellow users include the cargo doors, the alternate brakes and parking brake, flight controls and the THS.",
+          "Its pressure comes from the engine 2 pump, the Yellow electric pump, or the PTU."
+        ],
+        "ar": [
+          "من مستخدمي النظام الأصفر أبواب الشحن والمكابح البديلة ومكبح الوقوف وأسطح التحكم والمثبت الأفقي.",
+          "يأتي ضغطه من مضخة المحرك رقم 2 أو المضخة الكهربائية الصفراء أو وحدة نقل القدرة (PTU)."
+        ]
+      }
+    },
+    {
+      "id": "fuel-center-tank",
+      "kind": "component",
+      "system": "fuel",
+      "name": {
+        "en": "Centre tank",
+        "ar": "الخزان المركزي"
+      },
+      "short": {
+        "en": "Fuel tank in the wing centre box, under the cabin floor.",
+        "ar": "خزان وقود داخل الصندوق المركزي للجناح، أسفل أرضية المقصورة."
+      },
+      "details": {
+        "en": [
+          "The centre tank sits in the part of the wing structure that passes through the fuselage. Its fuel is normally used before the wing-tank fuel.",
+          "On the A320ceo, two centre-tank pumps feed the engines directly. On the A320neo, the fuel is transferred into the inner wing tanks instead."
+        ],
+        "ar": [
+          "يقع الخزان المركزي في جزء هيكل الجناح الذي يمر عبر جسم الطائرة، ويُستهلك وقوده عادةً قبل وقود خزانات الأجنحة.",
+          "في طراز A320ceo تغذّي مضختا الخزان المركزي المحركات مباشرة، أما في A320neo فيُنقل الوقود إلى الخزانات الداخلية للأجنحة."
+        ]
+      },
+      "location": {
+        "en": "Wing centre box, below the cabin",
+        "ar": "الصندوق المركزي للجناح، أسفل المقصورة"
+      }
+    },
+    {
+      "id": "fuel-inner-tanks",
+      "kind": "component",
+      "system": "fuel",
+      "name": {
+        "en": "Inner wing tanks",
+        "ar": "خزانات الجناح الداخلية"
+      },
+      "short": {
+        "en": "The largest tanks, inside each wing between the root and mid-span.",
+        "ar": "أكبر الخزانات، داخل كل جناح بين الجذر ومنتصف الامتداد."
+      },
+      "details": {
+        "en": [
+          "Each inner tank contains a collector cell with two booster pumps that feed its engine. The wing tanks hold 15,959 litres in total and the centre tank 8,250 litres, giving 24,209 litres of usable fuel (CFM-engined A320ceo).",
+          "Keeping fuel in the wings reduces the bending load on the wing in flight, because the weight of the fuel counters the lift."
+        ],
+        "ar": [
+          "يحتوي كل خزان داخلي على خلية تجميع بها مضختا تعزيز تغذّيان المحرك الخاص بذلك الجانب. وتتسع خزانات الأجنحة لـ 15,959 لتراً إجمالاً والخزان المركزي لـ 8,250 لتراً، أي 24,209 لترات من الوقود القابل للاستخدام (طراز A320ceo بمحركات CFM).",
+          "يقلل وجود الوقود في الأجنحة من إجهاد الانحناء على الجناح أثناء الطيران، لأن وزن الوقود يعاكس قوة الرفع."
+        ]
+      },
+      "location": {
+        "en": "Inboard section of each wing",
+        "ar": "الجزء الداخلي من كل جناح"
+      }
+    },
+    {
+      "id": "fuel-outer-tanks",
+      "kind": "component",
+      "system": "fuel",
+      "name": {
+        "en": "Outer wing tanks",
+        "ar": "خزانات الجناح الخارجية"
+      },
+      "short": {
+        "en": "Smaller tanks further out in each wing.",
+        "ar": "خزانات أصغر في الجزء الخارجي من كل جناح."
+      },
+      "details": {
+        "en": [
+          "Outer-tank fuel is kept until late in the flight to relieve wing bending. When an inner tank falls to about 750 kg, transfer valves open and the outer fuel drains into it by gravity.",
+          "The animated line shows that transfer from the outer tank toward the inner tank."
+        ],
+        "ar": [
+          "يُحتفظ بوقود الخزانات الخارجية حتى مرحلة متأخرة من الرحلة لتخفيف انحناء الجناح، وعندما ينخفض الخزان الداخلي إلى نحو 750 كغ تُفتح صمامات النقل فينساب الوقود الخارجي إليه بالجاذبية.",
+          "يوضح الخط المتحرك عملية النقل هذه من الخزان الخارجي نحو الخزان الداخلي."
+        ]
+      },
+      "location": {
+        "en": "Outboard section of each wing",
+        "ar": "الجزء الخارجي من كل جناح"
+      }
+    },
+    {
+      "id": "fuel-vent-tanks",
+      "kind": "component",
+      "system": "fuel",
+      "name": {
+        "en": "Vent surge tanks",
+        "ar": "خزانات التهوية"
+      },
+      "short": {
+        "en": "Keep the fuel tanks at outside air pressure.",
+        "ar": "تحافظ على ضغط خزانات الوقود مساوياً لضغط الهواء الخارجي."
+      },
+      "details": {
+        "en": [
+          "As the aircraft climbs and descends, air must flow in and out of the tanks. The vent system connects every tank to the vent surge tank near each wingtip.",
+          "The surge tank opens to the outside through an air intake under the wing, and collects any fuel that enters the vent lines."
+        ],
+        "ar": [
+          "عند صعود الطائرة وهبوطها يجب أن يدخل الهواء إلى الخزانات ويخرج منها، ويربط نظام التهوية كل الخزانات بخزان التهوية قرب طرف كل جناح.",
+          "يتصل خزان التهوية بالهواء الخارجي عبر فتحة سحب أسفل الجناح، ويجمع أي وقود يدخل خطوط التهوية."
+        ]
+      },
+      "location": {
+        "en": "Near each wingtip",
+        "ar": "قرب طرف كل جناح"
+      }
+    },
+    {
+      "id": "fuel-wing-pumps",
+      "kind": "component",
+      "system": "fuel",
+      "name": {
+        "en": "Wing tank booster pumps",
+        "ar": "مضخات التعزيز في خزانات الأجنحة"
+      },
+      "short": {
+        "en": "Electric pumps that push fuel from the wing tanks to the engines.",
+        "ar": "مضخات كهربائية تدفع الوقود من خزانات الأجنحة إلى المحركات."
+      },
+      "details": {
+        "en": [
+          "There are two pumps in each inner tank. Either one can supply its engine at full power, so one pump can fail without effect.",
+          "Engines can also draw fuel by suction if all pumps fail, but only at lower altitudes."
+        ],
+        "ar": [
+          "يوجد مضختان في كل خزان داخلي، ويمكن لأي منهما تزويد المحرك بالوقود بكامل قدرته، لذا لا يؤثر تعطل إحداهما.",
+          "يمكن للمحركات أيضاً سحب الوقود بالشفط إذا تعطلت جميع المضخات، لكن على ارتفاعات أقل فقط."
+        ]
+      },
+      "location": {
+        "en": "Collector cell of each inner tank",
+        "ar": "خلية التجميع في كل خزان داخلي"
+      }
+    },
+    {
+      "id": "fuel-center-pumps",
+      "kind": "component",
+      "system": "fuel",
+      "name": {
+        "en": "Centre tank pumps",
+        "ar": "مضخات الخزان المركزي"
+      },
+      "short": {
+        "en": "Move fuel out of the centre tank.",
+        "ar": "تنقل الوقود من الخزان المركزي."
+      },
+      "details": {
+        "en": [
+          "On the A320ceo, these electric pumps feed the engines from the centre tank first. In automatic mode they stop while the slats are extended, so take-off and landing use wing-tank fuel.",
+          "On the A320neo, jet pumps transfer the centre-tank fuel into the inner wing tanks instead."
+        ],
+        "ar": [
+          "في طراز A320ceo تغذّي هذه المضخات الكهربائية المحركات من الخزان المركزي أولاً، وفي الوضع التلقائي تتوقف أثناء مدّ الشرائح الأمامية، فيُستخدم وقود خزانات الأجنحة في الإقلاع والهبوط.",
+          "أما في A320neo فتنقل مضخات نفّاثة وقود الخزان المركزي إلى خزانات الأجنحة الداخلية."
+        ]
+      },
+      "location": {
+        "en": "Centre tank",
+        "ar": "الخزان المركزي"
+      }
+    },
+    {
+      "id": "fuel-crossfeed-valve",
+      "kind": "component",
+      "system": "fuel",
+      "name": {
+        "en": "Crossfeed valve",
+        "ar": "صمام التغذية المتقاطعة"
+      },
+      "short": {
+        "en": "Connects the left and right feed lines when needed.",
+        "ar": "يصل خطي التغذية الأيسر والأيمن عند الحاجة."
+      },
+      "details": {
+        "en": [
+          "The valve is normally closed, so each wing feeds its own engine. Opening it lets one side's tanks feed both engines, or both sides feed one engine.",
+          "It is used to correct a fuel imbalance or after an engine failure, following the ECAM procedure."
+        ],
+        "ar": [
+          "يكون الصمام مغلقاً في الوضع العادي فيغذّي كل جناح محركه، وعند فتحه يمكن لخزانات أحد الجانبين تغذية المحركين معاً، أو لكلا الجانبين تغذية محرك واحد.",
+          "يُستخدم لتصحيح عدم توازن الوقود أو بعد تعطل أحد المحركين، وفقاً لإجراء ECAM."
+        ]
+      },
+      "location": {
+        "en": "Centre wing box",
+        "ar": "الصندوق المركزي للجناح"
+      }
+    },
+    {
+      "id": "fuel-lp-valves",
+      "kind": "component",
+      "system": "fuel",
+      "name": {
+        "en": "Engine LP valves",
+        "ar": "صمامات الضغط المنخفض للمحركات"
+      },
+      "short": {
+        "en": "Shut off fuel to an engine in case of fire or shutdown.",
+        "ar": "تقطع الوقود عن المحرك في حالة الحريق أو الإيقاف."
+      },
+      "details": {
+        "en": [
+          "Each engine has a low-pressure (LP) fuel valve in its feed line where it enters the pylon.",
+          "It closes when the ENG MASTER switch is set to OFF or when the ENG FIRE pushbutton is pressed."
+        ],
+        "ar": [
+          "لكل محرك صمام وقود للضغط المنخفض (LP) في خط التغذية عند دخوله إلى حامل المحرك.",
+          "ويُغلق عند وضع مفتاح ENG MASTER على OFF أو عند الضغط على زر ENG FIRE."
+        ]
+      },
+      "location": {
+        "en": "Wing, at each engine pylon",
+        "ar": "الجناح، عند حامل كل محرك"
+      }
+    },
+    {
+      "id": "fuel-refuel-coupling",
+      "kind": "component",
+      "system": "fuel",
+      "name": {
+        "en": "Refuel coupling",
+        "ar": "وصلة التزود بالوقود"
+      },
+      "short": {
+        "en": "Where the fuel hose connects for pressure refuelling.",
+        "ar": "النقطة التي يتصل بها خرطوم الوقود للتزود بالضغط."
+      },
+      "details": {
+        "en": [
+          "Fuel is pumped in under pressure through a coupling under the right wing, 9.83 m from the centreline and about 3.65 m above the ground. A refuel panel under the fuselage controls the process.",
+          "Refuelling is normally automatic: the operator enters the required quantity and the system fills each tank in the correct order."
+        ],
+        "ar": [
+          "يُضخ الوقود تحت الضغط عبر وصلة أسفل الجناح الأيمن، على بُعد 9.83 متر من محور الطائرة وارتفاع نحو 3.65 متر عن الأرض، وتتحكم لوحة تزود بالوقود أسفل جسم الطائرة في العملية.",
+          "يكون التزود عادةً تلقائياً، إذ يُدخل المشغّل الكمية المطلوبة فيملأ النظام كل خزان بالترتيب الصحيح."
+        ]
+      },
+      "location": {
+        "en": "Under the right wing",
+        "ar": "أسفل الجناح الأيمن"
+      }
+    },
+    {
+      "id": "fuel-engine-feed",
+      "kind": "component",
+      "system": "fuel",
+      "name": {
+        "en": "Engine feed lines",
+        "ar": "خطوط تغذية المحركات"
+      },
+      "short": {
+        "en": "Carry fuel from the booster pumps to each engine.",
+        "ar": "تنقل الوقود من مضخات التعزيز إلى كل محرك."
+      },
+      "details": {
+        "en": [
+          "Each line runs from the inner tank, through the LP valve, down the pylon to the engine's fuel pump.",
+          "On the engine, the fuel also cools the engine oil before it is burned."
+        ],
+        "ar": [
+          "يمتد كل خط من الخزان الداخلي مروراً بصمام الضغط المنخفض ثم عبر حامل المحرك إلى مضخة الوقود في المحرك.",
+          "وفي المحرك يُستخدم الوقود أيضاً لتبريد زيت المحرك قبل احتراقه."
+        ]
+      }
+    },
+    {
+      "id": "fuel-apu-feed",
+      "kind": "component",
+      "system": "fuel",
+      "name": {
+        "en": "APU fuel line",
+        "ar": "خط وقود وحدة APU"
+      },
+      "short": {
+        "en": "Supplies the APU in the tail from the left feed line.",
+        "ar": "يغذّي وحدة APU في الذيل من خط التغذية الأيسر."
+      },
+      "details": {
+        "en": [
+          "The APU takes its fuel from the left-side feed line. A dedicated APU fuel pump runs if the supply pressure is too low.",
+          "The line runs along the lower fuselage to the tail cone."
+        ],
+        "ar": [
+          "تأخذ وحدة APU وقودها من خط التغذية في الجانب الأيسر، وتعمل مضخة وقود مخصصة لها إذا كان ضغط التغذية منخفضاً.",
+          "يمتد الخط على طول الجزء السفلي من جسم الطائرة حتى مخروط الذيل."
+        ]
+      }
+    },
+    {
+      "id": "elec-idg-1",
+      "kind": "component",
+      "system": "electrical",
+      "name": {
+        "en": "Generator 1 (IDG 1)",
+        "ar": "المولد 1 (IDG 1)"
+      },
+      "short": {
+        "en": "Engine 1 generator: the main AC source for the left side.",
+        "ar": "مولد المحرك رقم 1، المصدر الرئيسي للتيار المتردد في الجانب الأيسر."
+      },
+      "details": {
+        "en": [
+          "An integrated drive generator (IDG) contains a constant-speed drive, so it produces 115 V AC at a steady 400 Hz whatever the engine speed. It is rated at 90 kVA.",
+          "The pilots can disconnect it from the cockpit if it overheats or loses oil pressure, but it can only be reconnected on the ground."
+        ],
+        "ar": [
+          "يحتوي المولد المتكامل (IDG) على وحدة إدارة بسرعة ثابتة، فيُنتج تياراً متردداً بجهد 115 فولت وتردد ثابت 400 هرتز مهما كانت سرعة المحرك، وتبلغ قدرته 90 كيلو فولت أمبير.",
+          "يمكن للطيارين فصله من قمرة القيادة إذا ارتفعت حرارته أو انخفض ضغط الزيت فيه، لكن لا يمكن إعادة توصيله إلا على الأرض."
+        ]
+      },
+      "location": {
+        "en": "Engine 1 accessory gearbox",
+        "ar": "صندوق التروس الملحقة بالمحرك رقم 1"
+      }
+    },
+    {
+      "id": "elec-idg-2",
+      "kind": "component",
+      "system": "electrical",
+      "name": {
+        "en": "Generator 2 (IDG 2)",
+        "ar": "المولد 2 (IDG 2)"
+      },
+      "short": {
+        "en": "Engine 2 generator: the main AC source for the right side.",
+        "ar": "مولد المحرك رقم 2، المصدر الرئيسي للتيار المتردد في الجانب الأيمن."
+      },
+      "details": {
+        "en": [
+          "Generator 1 normally supplies AC bus 1 and generator 2 supplies AC bus 2.",
+          "If one generator fails, the other, or the APU generator, automatically takes over its bus."
+        ],
+        "ar": [
+          "يغذّي المولد 1 عادةً الحافلة AC 1، ويغذّي المولد 2 الحافلة AC 2.",
+          "وإذا تعطل أحد المولدين تولّى المولد الآخر أو مولد وحدة APU تغذية حافلته تلقائياً."
+        ]
+      },
+      "location": {
+        "en": "Engine 2 accessory gearbox",
+        "ar": "صندوق التروس الملحقة بالمحرك رقم 2"
+      }
+    },
+    {
+      "id": "elec-apu-generator",
+      "kind": "component",
+      "system": "electrical",
+      "name": {
+        "en": "APU generator",
+        "ar": "مولد وحدة APU"
+      },
+      "short": {
+        "en": "Supplies AC power on the ground and replaces a failed engine generator.",
+        "ar": "يوفّر التيار المتردد على الأرض ويحل محل مولد المحرك المتعطل."
+      },
+      "details": {
+        "en": [
+          "Driven by the APU, this 90 kVA generator can power the whole electrical network when the engines are stopped.",
+          "In flight it can replace either engine generator."
+        ],
+        "ar": [
+          "يُدار هذا المولد بقدرة 90 كيلو فولت أمبير بواسطة وحدة APU، ويمكنه تغذية الشبكة الكهربائية كاملة عندما تكون المحركات متوقفة.",
+          "وأثناء الطيران يمكنه أن يحل محل أي من مولدي المحركين."
+        ]
+      },
+      "location": {
+        "en": "APU, in the tail cone",
+        "ar": "وحدة APU في مخروط الذيل"
+      }
+    },
+    {
+      "id": "elec-ext-power",
+      "kind": "component",
+      "system": "electrical",
+      "name": {
+        "en": "External power receptacle",
+        "ar": "مقبس الطاقة الخارجية"
+      },
+      "short": {
+        "en": "Where a ground power unit plugs in.",
+        "ar": "النقطة التي تُوصل بها وحدة الطاقة الأرضية."
+      },
+      "details": {
+        "en": [
+          "At the gate, a ground power unit supplies three-phase 115/200 V AC at 400 Hz (up to 90 kVA) through this receptacle, so the APU and engines can stay off. It is on the centreline, 2.55 m aft of the nose and about 2 m above the ground.",
+          "When external power is connected and selected ON, it has priority over the APU generator."
+        ],
+        "ar": [
+          "عند البوابة تزوّد وحدة طاقة أرضية الطائرة بتيار متردد ثلاثي الأطوار 115/200 فولت و400 هرتز (حتى 90 كيلو فولت أمبير) عبر هذا المقبس، فيمكن إبقاء وحدة APU والمحركات متوقفة. ويقع المقبس على محور الطائرة، على بُعد 2.55 متر من المقدمة وارتفاع نحو مترين عن الأرض.",
+          "وعند توصيل الطاقة الخارجية وتشغيلها تكون لها الأولوية على مولد وحدة APU."
+        ]
+      },
+      "location": {
+        "en": "Lower forward fuselage, near the nose gear",
+        "ar": "الجزء السفلي الأمامي من جسم الطائرة قرب العجلات الأمامية"
+      }
+    },
+    {
+      "id": "elec-avionics-bay",
+      "kind": "component",
+      "system": "electrical",
+      "name": {
+        "en": "Avionics compartment",
+        "ar": "حجرة الإلكترونيات (Avionics)"
+      },
+      "short": {
+        "en": "Houses the aircraft's computers and the main electrical distribution.",
+        "ar": "تضم حواسيب الطائرة ونظام التوزيع الكهربائي الرئيسي."
+      },
+      "details": {
+        "en": [
+          "The AC and DC buses, contactors and many circuit breakers are here, together with the flight control, navigation and system computers.",
+          "Fans and ducts cool the equipment. Technicians reach the compartment through a hatch under the forward fuselage."
+        ],
+        "ar": [
+          "توجد هنا حافلات التيار المتردد والمستمر والملامسات وكثير من قواطع الدوائر، إلى جانب حواسيب التحكم بالطيران والملاحة والأنظمة.",
+          "تُبرَّد المعدات بمراوح وقنوات هواء، ويصل الفنيون إلى الحجرة عبر فتحة أسفل الجزء الأمامي من جسم الطائرة."
+        ]
+      },
+      "location": {
+        "en": "Below the cockpit floor",
+        "ar": "أسفل أرضية قمرة القيادة"
+      }
+    },
+    {
+      "id": "elec-batteries",
+      "kind": "component",
+      "system": "electrical",
+      "name": {
+        "en": "Batteries",
+        "ar": "البطاريات"
+      },
+      "short": {
+        "en": "Two 24 V batteries for APU start and last-resort power.",
+        "ar": "بطاريتان بجهد 24 فولت لتشغيل وحدة APU ولتوفير طاقة الملاذ الأخير."
+      },
+      "details": {
+        "en": [
+          "The batteries power the aircraft when nothing else is available, for example to start the APU before ground power is connected.",
+          "In flight they are kept charged and back up the essential DC network. A static inverter can turn battery power into AC for essential instruments."
+        ],
+        "ar": [
+          "تغذّي البطاريات الطائرة عندما لا يتوفر أي مصدر آخر، مثلاً لتشغيل وحدة APU قبل توصيل الطاقة الأرضية.",
+          "وأثناء الطيران تبقى مشحونة وتدعم شبكة التيار المستمر الأساسية، ويمكن لمحوّل ثابت (Static Inverter) تحويل طاقتها إلى تيار متردد للأجهزة الأساسية."
+        ]
+      },
+      "location": {
+        "en": "Avionics compartment",
+        "ar": "حجرة الإلكترونيات"
+      }
+    },
+    {
+      "id": "elec-trs",
+      "kind": "component",
+      "system": "electrical",
+      "name": {
+        "en": "Transformer rectifiers (TRs)",
+        "ar": "المحوّلات المقوّمة (TR)"
+      },
+      "short": {
+        "en": "Convert 115 V AC into 28 V DC.",
+        "ar": "تحوّل التيار المتردد 115 فولت إلى تيار مستمر 28 فولت."
+      },
+      "details": {
+        "en": [
+          "There are three: TR 1, TR 2 and the essential TR. They supply the DC buses that power many instruments and controls.",
+          "If one TR fails, the DC network is reconfigured automatically so the essential buses stay powered."
+        ],
+        "ar": [
+          "يوجد ثلاثة منها: TR 1 وTR 2 والمحوّل الأساسي ESS TR، وتغذّي حافلات التيار المستمر التي تشغّل كثيراً من الأجهزة وأدوات التحكم.",
+          "وإذا تعطل أحدها يُعاد تشكيل شبكة التيار المستمر تلقائياً حتى تبقى الحافلات الأساسية مغذّاة."
+        ]
+      },
+      "location": {
+        "en": "Avionics compartment",
+        "ar": "حجرة الإلكترونيات"
+      }
+    },
+    {
+      "id": "elec-ac-feeders",
+      "kind": "component",
+      "system": "electrical",
+      "name": {
+        "en": "AC feeder cables",
+        "ar": "كابلات تغذية التيار المتردد"
+      },
+      "short": {
+        "en": "Heavy cables carrying generator power to the avionics compartment.",
+        "ar": "كابلات كبيرة تنقل طاقة المولدات إلى حجرة الإلكترونيات."
+      },
+      "details": {
+        "en": [
+          "Feeders run from each IDG along the wing and fuselage, from the APU generator along the rear fuselage, and from the external power receptacle.",
+          "They end at contactors in the avionics compartment that connect each source to the right bus."
+        ],
+        "ar": [
+          "تمتد الكابلات من كل مولد IDG عبر الجناح وجسم الطائرة، ومن مولد وحدة APU عبر مؤخرة الجسم، ومن مقبس الطاقة الخارجية.",
+          "وتنتهي عند ملامسات في حجرة الإلكترونيات توصل كل مصدر بالحافلة المناسبة."
+        ]
+      }
+    },
+    {
+      "id": "elec-dc-cables",
+      "kind": "component",
+      "system": "electrical",
+      "name": {
+        "en": "DC cables",
+        "ar": "كابلات التيار المستمر"
+      },
+      "short": {
+        "en": "Connect the batteries and TRs to the DC buses.",
+        "ar": "تصل البطاريات والمحوّلات المقوّمة بحافلات التيار المستمر."
+      },
+      "details": {
+        "en": [
+          "DC power at 28 V is used by many cockpit instruments, warning systems and controls.",
+          "The essential DC bus is kept alive in almost every failure case, using the batteries if necessary."
+        ],
+        "ar": [
+          "تستخدم كثير من أجهزة قمرة القيادة وأنظمة التحذير وأدوات التحكم التيار المستمر بجهد 28 فولت.",
+          "وتبقى حافلة التيار المستمر الأساسية مغذّاة في معظم حالات الأعطال، باستخدام البطاريات عند الضرورة."
+        ]
+      }
+    },
+    {
+      "id": "int-seats",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Passenger seats",
+        "ar": "مقاعد الركاب"
+      },
+      "short": {
+        "en": "180 seats in the typical single-class layout, six abreast with one aisle.",
+        "ar": "180 مقعداً في التخطيط النموذجي بدرجة واحدة، ستة مقاعد في الصف مع ممر واحد."
+      },
+      "details": {
+        "en": [
+          "Airbus's typical high-density layout has 30 rows of 3 + 3 seats at 28 to 29 inch pitch. The typical two-class layout has 150 seats: 12 in first class and 138 in economy.",
+          "Above each row a panel holds reading lights, air outlets and the oxygen masks, which drop automatically if cabin pressure is lost. Chemical generators then supply oxygen for about 15 minutes."
+        ],
+        "ar": [
+          "يتكون تخطيط إيرباص النموذجي عالي الكثافة من 30 صفاً بترتيب 3 + 3 مقاعد، بمسافة 28 إلى 29 بوصة بين الصفوف، أما التخطيط النموذجي بدرجتين فيضم 150 مقعداً: 12 في الدرجة الأولى و138 في السياحية.",
+          "توجد فوق كل صف لوحة تضم مصابيح القراءة وفتحات الهواء وأقنعة الأكسجين التي تسقط تلقائياً عند فقدان ضغط المقصورة، ثم تزوّد مولدات كيميائية الأكسجين لنحو 15 دقيقة."
+        ]
+      },
+      "location": {
+        "en": "Main deck, between the forward and aft doors",
+        "ar": "الطابق الرئيسي، بين الأبواب الأمامية والخلفية"
+      }
+    },
+    {
+      "id": "int-overhead-bins",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Overhead stowage bins",
+        "ar": "خزائن الأمتعة العلوية"
+      },
+      "short": {
+        "en": "Closed bins along both sides of the cabin for hand baggage.",
+        "ar": "خزائن مغلقة على جانبي المقصورة لحقائب اليد."
+      },
+      "details": {
+        "en": [
+          "The bins hang from the fuselage frames above the seats. The air-conditioning supply ducts run behind them and feed the outlets along the ceiling and sidewalls."
+        ],
+        "ar": [
+          "تُعلَّق الخزائن على إطارات جسم الطائرة فوق المقاعد، وتمر خلفها قنوات إمداد هواء التكييف التي تغذّي الفتحات على طول السقف والجدران الجانبية."
+        ]
+      },
+      "location": {
+        "en": "Above the seats, both sides",
+        "ar": "فوق المقاعد، على الجانبين"
+      }
+    },
+    {
+      "id": "int-galleys",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Galleys",
+        "ar": "المطابخ (Galleys)"
+      },
+      "short": {
+        "en": "Two galleys, forward and aft, where meals and drinks are stored and prepared.",
+        "ar": "مطبخان، أمامي وخلفي، تُخزَّن فيهما الوجبات والمشروبات وتُجهَّز."
+      },
+      "details": {
+        "en": [
+          "The galleys hold service trolleys, ovens, water boilers and waste bins. They take electrical power from the aircraft's AC network and water from the potable water tank.",
+          "Galley power is the first load the electrical system sheds automatically when only one generator is available."
+        ],
+        "ar": [
+          "تضم المطابخ عربات الخدمة والأفران وسخانات الماء وحاويات النفايات، وتأخذ الكهرباء من شبكة التيار المتردد بالطائرة والماء من خزان مياه الشرب.",
+          "وكهرباء المطابخ هي أول حمل يفصله النظام الكهربائي تلقائياً عندما يتوفر مولد واحد فقط."
+        ]
+      },
+      "location": {
+        "en": "Behind the cockpit (right side) and at the rear of the cabin",
+        "ar": "خلف قمرة القيادة (الجانب الأيمن) وفي مؤخرة المقصورة"
+      }
+    },
+    {
+      "id": "int-lavatories",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Lavatories",
+        "ar": "دورات المياه"
+      },
+      "short": {
+        "en": "Three lavatories in the typical layout: one forward and two aft.",
+        "ar": "ثلاث دورات مياه في التخطيط النموذجي: واحدة أمامية واثنتان خلفيتان."
+      },
+      "details": {
+        "en": [
+          "The toilets use a vacuum system: the pressure difference between the cabin and the outside air pulls waste to a single tank at the rear. On the ground a vacuum generator does the same job.",
+          "Each lavatory has a smoke detector and an automatic fire extinguisher in the waste bin."
+        ],
+        "ar": [
+          "تعمل المراحيض بنظام التفريغ، إذ يسحب فرق الضغط بين المقصورة والهواء الخارجي الفضلات إلى خزان واحد في المؤخرة، وعلى الأرض يقوم مولد تفريغ بالمهمة نفسها.",
+          "وفي كل دورة مياه كاشف دخان وطفاية حريق تلقائية في حاوية النفايات."
+        ]
+      },
+      "location": {
+        "en": "Forward left, and both sides at the rear",
+        "ar": "في المقدمة يساراً، وعلى الجانبين في المؤخرة"
+      }
+    },
+    {
+      "id": "int-cabin-floor",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Cabin floor",
+        "ar": "أرضية المقصورة"
+      },
+      "short": {
+        "en": "Separates the passenger cabin from the cargo holds and equipment bays below.",
+        "ar": "تفصل مقصورة الركاب عن عنابر الشحن وحجرات المعدات في الأسفل."
+      },
+      "details": {
+        "en": [
+          "Light composite floor panels rest on cross beams attached to the fuselage frames. The seats lock into rails that run the length of the cabin, so the layout can be changed.",
+          "The floor is about 3.4 m above the ground, which is why passengers need stairs or a jet bridge."
+        ],
+        "ar": [
+          "ترتكز ألواح أرضية خفيفة من مواد مركّبة على عوارض عرضية مثبتة بإطارات جسم الطائرة، وتُثبَّت المقاعد في سكك تمتد على طول المقصورة، مما يسمح بتغيير التخطيط.",
+          "ترتفع الأرضية نحو 3.4 متر عن الأرض، ولهذا يحتاج الركاب إلى سلّم أو جسر للصعود."
+        ]
+      }
+    },
+    {
+      "id": "int-flight-deck-panels",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Flight deck panels",
+        "ar": "لوحات قمرة القيادة"
+      },
+      "short": {
+        "en": "The instrument panel, centre pedestal and overhead panel.",
+        "ar": "لوحة العدادات والمنصة الوسطى واللوحة العلوية."
+      },
+      "details": {
+        "en": [
+          "The main instrument panel carries six screens: two primary flight displays, two navigation displays and the two ECAM displays for engines and systems.",
+          "The pedestal between the pilots holds the thrust levers, flight management keyboards, radios and the flap and speed brake levers. The overhead panel groups the system controls: fuel, hydraulics, electrics, air and lights."
+        ],
+        "ar": [
+          "تحمل لوحة العدادات الرئيسية ست شاشات: شاشتين أساسيتين للطيران (PFD)، وشاشتين للملاحة (ND)، وشاشتي ECAM للمحركات والأنظمة.",
+          "وتضم المنصة الوسطى بين الطيارين أذرع الدفع ولوحات إدارة الطيران (MCDU) وأجهزة الراديو وذراعي القلابات ومكابح الهواء، أما اللوحة العلوية فتجمع مفاتيح الأنظمة: الوقود والهيدروليك والكهرباء والهواء والإضاءة."
+        ]
+      },
+      "location": {
+        "en": "Cockpit",
+        "ar": "قمرة القيادة"
+      }
+    },
+    {
+      "id": "int-cockpit-seats",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Pilot seats",
+        "ar": "مقعدا الطيارين"
+      },
+      "short": {
+        "en": "Captain on the left, first officer on the right.",
+        "ar": "القائد على اليسار ومساعد الطيار على اليمين."
+      },
+      "details": {
+        "en": [
+          "Because the A320 has side-sticks instead of control columns, each pilot has a clear view of the screens and a pull-out table in front of the seat.",
+          "Folding observer seats behind the pilots are used by instructors and inspectors."
+        ],
+        "ar": [
+          "لأن A320 تستخدم عصا تحكم جانبية بدلاً من عمود التحكم، يتمتع كل طيار برؤية واضحة للشاشات وبطاولة قابلة للسحب أمام مقعده.",
+          "وتوجد خلف الطيارين مقاعد مراقبة قابلة للطي يستخدمها المدربون والمفتشون."
+        ]
+      },
+      "location": {
+        "en": "Cockpit",
+        "ar": "قمرة القيادة"
+      }
+    },
+    {
+      "id": "int-crew-oxygen",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Crew oxygen cylinder",
+        "ar": "أسطوانة أكسجين الطاقم"
+      },
+      "short": {
+        "en": "High-pressure oxygen for the pilots' quick-donning masks.",
+        "ar": "أكسجين عالي الضغط لأقنعة الطيارين سريعة الارتداء."
+      },
+      "details": {
+        "en": [
+          "The flight crew has its own gaseous oxygen supply, separate from the passengers' chemical generators. The cylinder is in the lower left of the nose section and is refilled from outside through a small access door 3.45 m aft of the nose."
+        ],
+        "ar": [
+          "لطاقم القيادة مصدر أكسجين غازي خاص به، منفصل عن المولدات الكيميائية الخاصة بالركاب. تقع الأسطوانة في الجزء السفلي الأيسر من مقدمة الطائرة، وتُعبّأ من الخارج عبر باب وصول صغير على بُعد 3.45 متر من مقدمة الطائرة."
+        ]
+      },
+      "location": {
+        "en": "Lower left of the nose section",
+        "ar": "الجزء السفلي الأيسر من مقدمة الطائرة"
+      }
+    },
+    {
+      "id": "int-fwd-cargo",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Forward cargo hold",
+        "ar": "عنبر الشحن الأمامي"
+      },
+      "short": {
+        "en": "13.28 m³ under the forward cabin: room for three containers.",
+        "ar": "13.28 م³ تحت الجزء الأمامي من المقصورة، ويتسع لثلاث حاويات."
+      },
+      "details": {
+        "en": [
+          "The hold is 4.95 m long and is loaded through a door about 1.8 m wide on the right side, with its sill about 1.85 m above the ground.",
+          "Cargo holds are pressurised with the cabin. They have smoke detectors, and fire-extinguishing agent can be discharged into them from the cockpit."
+        ],
+        "ar": [
+          "يبلغ طول العنبر 4.95 متر، ويُحمَّل عبر باب عرضه نحو 1.8 متر في الجانب الأيمن، وترتفع عتبته نحو 1.85 متر عن الأرض.",
+          "عنابر الشحن مضغوطة مع المقصورة، وفيها كواشف دخان، ويمكن تفريغ مادة إطفاء الحريق فيها من قمرة القيادة."
+        ]
+      },
+      "location": {
+        "en": "Under the floor, ahead of the wing",
+        "ar": "تحت الأرضية، أمام الجناح"
+      }
+    },
+    {
+      "id": "int-aft-cargo",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Aft cargo hold",
+        "ar": "عنبر الشحن الخلفي"
+      },
+      "short": {
+        "en": "18.26 m³ under the rear cabin: room for four containers.",
+        "ar": "18.26 م³ تحت الجزء الخلفي من المقصورة، ويتسع لأربع حاويات."
+      },
+      "details": {
+        "en": [
+          "The aft hold is the larger of the two. Together with the bulk hold behind it, it is 9.8 m long.",
+          "Loading the two holds in the right proportion keeps the aircraft's centre of gravity within limits, which is part of every load sheet."
+        ],
+        "ar": [
+          "العنبر الخلفي هو الأكبر بين العنبرين، ويبلغ طوله مع عنبر البضائع السائبة خلفه 9.8 متر.",
+          "وتوزيع الحمولة بين العنبرين بالنسبة الصحيحة يُبقي مركز ثقل الطائرة ضمن الحدود، وهو جزء من كشف الحمولة في كل رحلة."
+        ]
+      },
+      "location": {
+        "en": "Under the floor, behind the wing",
+        "ar": "تحت الأرضية، خلف الجناح"
+      }
+    },
+    {
+      "id": "int-bulk-cargo",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Bulk cargo hold",
+        "ar": "عنبر البضائع السائبة"
+      },
+      "short": {
+        "en": "5.88 m³ at the rear for loose baggage, with its own small door.",
+        "ar": "5.88 م³ في المؤخرة للأمتعة السائبة، وله باب صغير خاص."
+      },
+      "details": {
+        "en": [
+          "Late bags, pushchairs and other loose items go here. A net separates it from the aft hold."
+        ],
+        "ar": [
+          "توضع هنا الحقائب المتأخرة وعربات الأطفال وغيرها من الأمتعة السائبة، وتفصله شبكة عن العنبر الخلفي."
+        ]
+      },
+      "location": {
+        "en": "Behind the aft cargo hold",
+        "ar": "خلف عنبر الشحن الخلفي"
+      }
+    },
+    {
+      "id": "int-uld",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Cargo containers (LD3-45)",
+        "ar": "حاويات الشحن (LD3-45)"
+      },
+      "short": {
+        "en": "Up to seven reduced-height containers: three forward and four aft.",
+        "ar": "حتى سبع حاويات منخفضة الارتفاع: ثلاث في الأمام وأربع في الخلف."
+      },
+      "details": {
+        "en": [
+          "The LD3-45 is a lower version of the common LD3 container, made to fit the A320's shallower hold. Containers roll in on the hold floor and are locked in place.",
+          "Many operators load A320 holds by hand with loose bags instead and have no container system fitted."
+        ],
+        "ar": [
+          "حاوية LD3-45 نسخة أقل ارتفاعاً من حاوية LD3 الشائعة، صُممت لتناسب عنبر A320 الأقل عمقاً، وتتحرك الحاويات على أرضية العنبر ثم تُقفل في مكانها.",
+          "وكثير من المشغّلين يحمّلون عنابر A320 يدوياً بحقائب سائبة دون تركيب نظام حاويات."
+        ]
+      }
+    },
+    {
+      "id": "int-nlg-bay",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Nose gear bay",
+        "ar": "تجويف العجلات الأمامية"
+      },
+      "short": {
+        "en": "The unpressurised bay that holds the retracted nose gear.",
+        "ar": "التجويف غير المضغوط الذي تنطوي فيه العجلات الأمامية."
+      },
+      "details": {
+        "en": [
+          "The nose gear retracts forward into this bay, which is surrounded by the avionics compartment. The bay doors close again after extension to keep out spray and debris."
+        ],
+        "ar": [
+          "تنطوي العجلات الأمامية للأمام داخل هذا التجويف الذي تحيط به حجرة الإلكترونيات، وتُغلق أبواب التجويف مجدداً بعد إنزال العجلات لمنع دخول الرذاذ والشوائب."
+        ]
+      },
+      "location": {
+        "en": "Under the cockpit",
+        "ar": "أسفل قمرة القيادة"
+      }
+    },
+    {
+      "id": "int-mlg-bay",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Main gear bay",
+        "ar": "تجويف العجلات الرئيسية"
+      },
+      "short": {
+        "en": "Holds the retracted main gear and much of the hydraulic equipment.",
+        "ar": "تنطوي فيه العجلات الرئيسية، ويضم كثيراً من المعدات الهيدروليكية."
+      },
+      "details": {
+        "en": [
+          "Both main gear legs fold inwards into this unpressurised bay in the belly, just behind the wing centre box.",
+          "It is one of the busiest areas for maintenance: hydraulic reservoirs, accumulators, the power transfer unit and the flap drive unit are all reached from here."
+        ],
+        "ar": [
+          "تنطوي ساقا العجلات الرئيسية نحو الداخل في هذا التجويف غير المضغوط ببطن الطائرة، خلف الصندوق المركزي للجناح مباشرة.",
+          "وهو من أكثر المناطق نشاطاً في الصيانة، إذ يُوصَل منه إلى الخزانات الهيدروليكية والمراكم ووحدة نقل القدرة ووحدة تحريك القلابات."
+        ]
+      },
+      "location": {
+        "en": "Belly, behind the wing centre box",
+        "ar": "بطن الطائرة، خلف الصندوق المركزي للجناح"
+      }
+    },
+    {
+      "id": "int-wing-center-box",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Wing centre box",
+        "ar": "الصندوق المركزي للجناح"
+      },
+      "short": {
+        "en": "The structure that joins the two wings through the fuselage.",
+        "ar": "الهيكل الذي يصل الجناحين عبر جسم الطائرة."
+      },
+      "details": {
+        "en": [
+          "The centre box carries the lift of both wings into the fuselage, so it is one of the most heavily loaded parts of the aircraft. It passes under the cabin floor.",
+          "It is sealed and used as the centre fuel tank, holding 8,250 litres."
+        ],
+        "ar": [
+          "ينقل الصندوق المركزي قوة الرفع من الجناحين إلى جسم الطائرة، لذا فهو من أكثر أجزاء الطائرة تحمّلاً للأحمال، ويمر تحت أرضية المقصورة.",
+          "وهو محكم الإغلاق ويُستخدم خزان وقود مركزياً يتسع لـ 8,250 لتراً."
+        ]
+      },
+      "location": {
+        "en": "Under the cabin floor, between the wings",
+        "ar": "تحت أرضية المقصورة، بين الجناحين"
+      }
+    },
+    {
+      "id": "int-pressure-bulkheads",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Pressure bulkheads",
+        "ar": "الحواجز الضاغطة"
+      },
+      "short": {
+        "en": "The front and rear walls of the pressurised part of the fuselage.",
+        "ar": "الجداران الأمامي والخلفي للجزء المضغوط من جسم الطائرة."
+      },
+      "details": {
+        "en": [
+          "Everything between the two bulkheads is pressurised: the cockpit, cabin, cargo holds and avionics compartment, about 330 m³ in total.",
+          "The radome ahead of the forward bulkhead and the tail cone behind the aft bulkhead are at outside air pressure."
+        ],
+        "ar": [
+          "كل ما يقع بين الحاجزين مضغوط: قمرة القيادة والمقصورة وعنابر الشحن وحجرة الإلكترونيات، بحجم إجمالي نحو 330 م³.",
+          "أما القبة الأنفية أمام الحاجز الأمامي ومخروط الذيل خلف الحاجز الخلفي فضغطهما يساوي ضغط الهواء الخارجي."
+        ]
+      }
+    },
+    {
+      "id": "int-water-tank",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Potable water tank",
+        "ar": "خزان مياه الشرب"
+      },
+      "short": {
+        "en": "Supplies the galleys and lavatory basins.",
+        "ar": "يزوّد المطابخ وأحواض دورات المياه بالماء."
+      },
+      "details": {
+        "en": [
+          "The tank holds about 200 litres and is pressurised with air so that water reaches the taps without a pump. It is filled through a service panel under the rear fuselage."
+        ],
+        "ar": [
+          "يتسع الخزان لنحو 200 لتر، ويُضغط بالهواء حتى يصل الماء إلى الصنابير دون مضخة، ويُملأ عبر لوحة خدمة أسفل مؤخرة جسم الطائرة."
+        ]
+      },
+      "location": {
+        "en": "Under the floor at the rear",
+        "ar": "تحت الأرضية في المؤخرة"
+      }
+    },
+    {
+      "id": "int-waste-tank",
+      "kind": "component",
+      "system": "cabin",
+      "name": {
+        "en": "Waste tank",
+        "ar": "خزان الفضلات"
+      },
+      "short": {
+        "en": "Collects waste from all the vacuum toilets.",
+        "ar": "يجمع الفضلات من جميع مراحيض التفريغ."
+      },
+      "details": {
+        "en": [
+          "The standard single tank has a usable capacity of 177 litres. It is drained and rinsed on the ground through the waste service panel."
+        ],
+        "ar": [
+          "تبلغ السعة القابلة للاستخدام للخزان الواحد القياسي 177 لتراً، ويُفرَّغ ويُشطف على الأرض عبر لوحة خدمة الفضلات."
+        ]
+      },
+      "location": {
+        "en": "Under the floor at the rear",
+        "ar": "تحت الأرضية في المؤخرة"
+      }
+    },
+    {
+      "id": "hyd-service-panels",
+      "kind": "component",
+      "system": "hydraulic",
+      "name": {
+        "en": "Hydraulic ground service panels",
+        "ar": "لوحات الخدمة الأرضية الهيدروليكية"
+      },
+      "short": {
+        "en": "Where ground equipment connects to each hydraulic system.",
+        "ar": "نقاط توصيل المعدات الأرضية بكل نظام هيدروليكي."
+      },
+      "details": {
+        "en": [
+          "There is one panel per system. Green and Yellow are 19.17 m aft of the nose, 1.27 m to the left and right of the centreline. Blue is 20.22 m aft, on the left. All are about 1.76 m above the ground.",
+          "All three reservoirs are filled from the Green panel, using a ground cart or the hand pump."
+        ],
+        "ar": [
+          "توجد لوحة لكل نظام: لوحتا النظامين الأخضر والأصفر على بُعد 19.17 متر من مقدمة الطائرة، و1.27 متر يسار محور الطائرة ويمينه، ولوحة النظام الأزرق على بُعد 20.22 متر في الجانب الأيسر، وكلها على ارتفاع نحو 1.76 متر عن الأرض.",
+          "وتُملأ الخزانات الثلاثة من لوحة النظام الأخضر، بعربة أرضية أو بالمضخة اليدوية."
+        ]
+      },
+      "location": {
+        "en": "Belly fairing, behind the main gear bay",
+        "ar": "غطاء البطن، خلف تجويف العجلات الرئيسية"
+      }
+    },
+    {
+      "id": "fuel-refuel-panel",
+      "kind": "component",
+      "system": "fuel",
+      "name": {
+        "en": "Refuel control panel",
+        "ar": "لوحة التحكم في التزود بالوقود"
+      },
+      "short": {
+        "en": "Where the refueller sets the fuel quantity and watches the tanks fill.",
+        "ar": "اللوحة التي يحدد منها عامل التزويد كمية الوقود ويراقب امتلاء الخزانات."
+      },
+      "details": {
+        "en": [
+          "The panel is under the fuselage, 16.4 m aft of the nose and 1.8 m to the right of the centreline, about 1.8 m above the ground.",
+          "Fuel enters through the coupling under the right wing at up to 50 psi, at about 1,250 litres per minute."
+        ],
+        "ar": [
+          "تقع اللوحة أسفل جسم الطائرة على بُعد 16.4 متر من المقدمة و1.8 متر يمين محور الطائرة، وعلى ارتفاع نحو 1.8 متر عن الأرض.",
+          "ويدخل الوقود عبر الوصلة أسفل الجناح الأيمن بضغط يصل إلى 50 رطل/بوصة²، وبمعدل نحو 1,250 لتراً في الدقيقة."
+        ]
+      },
+      "location": {
+        "en": "Belly fairing, right side",
+        "ar": "غطاء البطن، الجانب الأيمن"
+      }
+    },
+    {
+      "id": "air-bleed-valves",
+      "kind": "component",
+      "system": "air",
+      "name": {
+        "en": "Engine bleed valves",
+        "ar": "صمامات سحب الهواء من المحركات"
+      },
+      "short": {
+        "en": "Take hot compressed air from each engine's compressor.",
+        "ar": "تسحب الهواء الساخن المضغوط من ضاغط كل محرك."
+      },
+      "details": {
+        "en": [
+          "Bleed air normally comes from an intermediate compressor stage. At low engine power a high-pressure stage takes over. The bleed valve regulates the pressure to about 45 psi.",
+          "The valve closes automatically if a leak or overheat is detected, and when the engine fire pushbutton is pressed."
+        ],
+        "ar": [
+          "يُسحب الهواء عادةً من مرحلة متوسطة في الضاغط، وعند قدرة المحرك المنخفضة تتولى مرحلة الضغط العالي المهمة، وينظّم صمام السحب الضغط عند نحو 45 رطل/بوصة².",
+          "ويُغلق الصمام تلقائياً عند اكتشاف تسرّب أو ارتفاع في الحرارة، وعند الضغط على زر حريق المحرك."
+        ]
+      },
+      "location": {
+        "en": "Engine and pylon",
+        "ar": "المحرك وحامله"
+      }
+    },
+    {
+      "id": "air-precooler",
+      "kind": "component",
+      "system": "air",
+      "name": {
+        "en": "Precoolers",
+        "ar": "المبرّدات الأولية (Precoolers)"
+      },
+      "short": {
+        "en": "Cool the bleed air to about 200 °C before it enters the wing.",
+        "ar": "تبرّد الهواء المسحوب إلى نحو 200 درجة مئوية قبل دخوله الجناح."
+      },
+      "details": {
+        "en": [
+          "The precooler is a heat exchanger in the pylon. Cold air from the engine fan flows through it and takes heat out of the bleed air, which protects the ducts and the structure around them."
+        ],
+        "ar": [
+          "المبرّد الأولي مبادل حراري في حامل المحرك، يمر فيه هواء بارد من مروحة المحرك فيسحب الحرارة من الهواء المسحوب، مما يحمي القنوات والهيكل المحيط بها."
+        ]
+      },
+      "location": {
+        "en": "Engine pylons",
+        "ar": "حاملا المحركين"
+      }
+    },
+    {
+      "id": "air-bleed-ducts",
+      "kind": "component",
+      "system": "air",
+      "name": {
+        "en": "Bleed air ducts",
+        "ar": "قنوات الهواء المسحوب"
+      },
+      "short": {
+        "en": "Carry hot air from the engines to the packs, anti-ice and engine starters.",
+        "ar": "تنقل الهواء الساخن من المحركات إلى وحدات التكييف ومنع التجمد وبادئات المحركات."
+      },
+      "details": {
+        "en": [
+          "The ducts run from each pylon along the wing leading edge into the belly. Sensing loops beside them detect leaks, and the affected side is then shut off automatically."
+        ],
+        "ar": [
+          "تمتد القنوات من كل حامل محرك على طول الحافة الأمامية للجناح إلى بطن الطائرة، وتكشف حلقات استشعار بجوارها أي تسرّب، فيُعزل الجانب المتأثر تلقائياً."
+        ]
+      }
+    },
+    {
+      "id": "air-crossbleed-valve",
+      "kind": "component",
+      "system": "air",
+      "name": {
+        "en": "Crossbleed valve",
+        "ar": "صمام السحب المتقاطع (Crossbleed)"
+      },
+      "short": {
+        "en": "Joins or separates the left and right bleed systems.",
+        "ar": "يصل نظامي الهواء المسحوب الأيسر والأيمن أو يفصلهما."
+      },
+      "details": {
+        "en": [
+          "It is normally closed, so each engine supplies its own side. It opens automatically when the APU supplies bleed air, and the crew can open it so one engine feeds both packs or starts the other engine."
+        ],
+        "ar": [
+          "يكون مغلقاً في الوضع العادي فيغذّي كل محرك جانبه، ويُفتح تلقائياً عندما تزوّد وحدة APU الهواء المسحوب، ويمكن للطاقم فتحه ليغذّي محرك واحد وحدتي التكييف أو ليشغّل المحرك الآخر."
+        ]
+      },
+      "location": {
+        "en": "Belly, ahead of the main gear bay",
+        "ar": "بطن الطائرة، أمام تجويف العجلات الرئيسية"
+      }
+    },
+    {
+      "id": "air-apu-bleed",
+      "kind": "component",
+      "system": "air",
+      "name": {
+        "en": "APU bleed valve and duct",
+        "ar": "صمام وقناة الهواء المسحوب من APU"
+      },
+      "short": {
+        "en": "Brings compressed air from the APU for air conditioning and engine start.",
+        "ar": "ينقل الهواء المضغوط من وحدة APU للتكييف وتشغيل المحركات."
+      },
+      "details": {
+        "en": [
+          "On the ground the APU usually supplies the packs and starts the engines. When the APU bleed valve is open, it has priority and the engine bleed valves close.",
+          "The duct runs along the left side of the fuselage from the tail to the crossbleed duct."
+        ],
+        "ar": [
+          "على الأرض تغذّي وحدة APU عادةً وحدات التكييف وتشغّل المحركات، وعندما يكون صمام هواء APU مفتوحاً تكون له الأولوية وتُغلق صمامات سحب الهواء من المحركات.",
+          "وتمتد القناة على الجانب الأيسر من جسم الطائرة من الذيل إلى قناة السحب المتقاطع."
+        ]
+      }
+    },
+    {
+      "id": "air-hp-connector",
+      "kind": "component",
+      "system": "air",
+      "name": {
+        "en": "High-pressure ground connector",
+        "ar": "وصلة الهواء الأرضية عالية الضغط"
+      },
+      "short": {
+        "en": "Where an air start unit connects to start the engines without the APU.",
+        "ar": "نقطة توصيل وحدة بدء التشغيل الهوائية لتشغيل المحركات دون وحدة APU."
+      },
+      "details": {
+        "en": [
+          "The 3-inch connector is 12.98 m aft of the nose, 0.84 m left of the centreline and about 1.76 m above the ground. Air from the cart enters the bleed system and reaches the engine starter."
+        ],
+        "ar": [
+          "تقع الوصلة بقطر 3 بوصات على بُعد 12.98 متر من مقدمة الطائرة و0.84 متر يسار محور الطائرة، وعلى ارتفاع نحو 1.76 متر عن الأرض، ويدخل هواء العربة الأرضية إلى نظام الهواء المسحوب ليصل إلى بادئ المحرك."
+        ]
+      },
+      "location": {
+        "en": "Belly fairing, left side",
+        "ar": "غطاء البطن، الجانب الأيسر"
+      }
+    },
+    {
+      "id": "air-packs",
+      "kind": "component",
+      "system": "air",
+      "name": {
+        "en": "Air conditioning packs",
+        "ar": "وحدات تكييف الهواء (Packs)"
+      },
+      "short": {
+        "en": "Two units that turn hot bleed air into cold, dry air for the cabin.",
+        "ar": "وحدتان تحوّلان الهواء الساخن المسحوب إلى هواء بارد وجاف للمقصورة."
+      },
+      "details": {
+        "en": [
+          "Each pack cools bleed air in heat exchangers, then expands it through an air cycle machine, which makes it very cold. A water separator removes moisture.",
+          "The packs sit in the unpressurised belly fairing ahead of the main gear bay. One pack can supply the whole aircraft if the other fails."
+        ],
+        "ar": [
+          "تبرّد كل وحدة الهواء المسحوب في مبادلات حرارية، ثم تمدّده عبر آلة دورة الهواء فيصبح شديد البرودة، ويزيل فاصل الماء الرطوبة منه.",
+          "تقع الوحدتان في غطاء البطن غير المضغوط أمام تجويف العجلات الرئيسية، وتستطيع وحدة واحدة تغذية الطائرة كلها إذا تعطلت الأخرى."
+        ]
+      },
+      "location": {
+        "en": "Belly fairing, ahead of the main gear bay",
+        "ar": "غطاء البطن، أمام تجويف العجلات الرئيسية"
+      }
+    },
+    {
+      "id": "air-ram-inlets",
+      "kind": "component",
+      "system": "air",
+      "name": {
+        "en": "Ram air inlets",
+        "ar": "فتحات هواء الصدم (Ram Air)"
+      },
+      "short": {
+        "en": "Scoop outside air to cool the pack heat exchangers.",
+        "ar": "تلتقط الهواء الخارجي لتبريد المبادلات الحرارية في وحدات التكييف."
+      },
+      "details": {
+        "en": [
+          "Flaps on the inlets open and close to control how much cooling air flows. They close during take-off and landing to keep out debris.",
+          "A separate emergency ram air inlet can ventilate the cabin directly if both packs fail."
+        ],
+        "ar": [
+          "تُفتح قلابات على الفتحات وتُغلق للتحكم في كمية هواء التبريد، وتُغلق أثناء الإقلاع والهبوط لمنع دخول الشوائب.",
+          "وتوجد فتحة طوارئ منفصلة تستطيع تهوية المقصورة مباشرة إذا تعطلت وحدتا التكييف."
+        ]
+      },
+      "location": {
+        "en": "Under the belly fairing",
+        "ar": "أسفل غطاء البطن"
+      }
+    },
+    {
+      "id": "air-mixing-unit",
+      "kind": "component",
+      "system": "air",
+      "name": {
+        "en": "Mixing unit",
+        "ar": "وحدة الخلط (Mixing Unit)"
+      },
+      "short": {
+        "en": "Mixes fresh air from the packs with recirculated cabin air.",
+        "ar": "تخلط الهواء النقي من وحدات التكييف بهواء المقصورة المُعاد تدويره."
+      },
+      "details": {
+        "en": [
+          "Cabin fans draw used air from under the floor back into the mixing unit, which reduces the bleed air the engines must supply.",
+          "From here air goes to three zones: the cockpit, the forward cabin and the aft cabin. A little hot trim air is added to each zone to set its temperature."
+        ],
+        "ar": [
+          "تسحب مراوح المقصورة الهواء المستخدم من تحت الأرضية وتعيده إلى وحدة الخلط، مما يقلل كمية الهواء التي يجب أن توفرها المحركات.",
+          "ومن هنا يذهب الهواء إلى ثلاث مناطق: قمرة القيادة والمقصورة الأمامية والمقصورة الخلفية، ويُضاف قليل من الهواء الساخن إلى كل منطقة لضبط حرارتها."
+        ]
+      },
+      "location": {
+        "en": "Under the cabin floor, ahead of the wing box",
+        "ar": "تحت أرضية المقصورة، أمام صندوق الجناح"
+      }
+    },
+    {
+      "id": "air-lp-connector",
+      "kind": "component",
+      "system": "air",
+      "name": {
+        "en": "Low-pressure ground connector",
+        "ar": "وصلة الهواء الأرضية منخفضة الضغط"
+      },
+      "short": {
+        "en": "Where a ground air-conditioning unit connects at the gate.",
+        "ar": "نقطة توصيل وحدة التكييف الأرضية عند البوابة."
+      },
+      "details": {
+        "en": [
+          "The 8-inch connector is 12.45 m aft of the nose, 1.11 m left of the centreline and about 1.73 m above the ground. Preconditioned air goes straight to the mixing unit, so the packs and APU can stay off."
+        ],
+        "ar": [
+          "تقع الوصلة بقطر 8 بوصات على بُعد 12.45 متر من مقدمة الطائرة و1.11 متر يسار محور الطائرة، وعلى ارتفاع نحو 1.73 متر عن الأرض، ويذهب الهواء المكيّف مسبقاً مباشرة إلى وحدة الخلط، فيمكن إبقاء وحدات التكييف ووحدة APU متوقفة."
+        ]
+      },
+      "location": {
+        "en": "Belly fairing, left side",
+        "ar": "غطاء البطن، الجانب الأيسر"
+      }
+    },
+    {
+      "id": "air-distribution",
+      "kind": "component",
+      "system": "air",
+      "name": {
+        "en": "Air distribution ducts",
+        "ar": "قنوات توزيع الهواء"
+      },
+      "short": {
+        "en": "Carry conditioned air to the cockpit and along the cabin ceiling.",
+        "ar": "تنقل الهواء المكيّف إلى قمرة القيادة وعلى طول سقف المقصورة."
+      },
+      "details": {
+        "en": [
+          "Risers take the air up between the frames to ducts behind the overhead bins. Air enters the cabin from the top, flows down past the passengers and leaves through grilles at floor level.",
+          "The cockpit has its own supply duct so its temperature can be set separately."
+        ],
+        "ar": [
+          "تصعد قنوات رأسية بالهواء بين الإطارات إلى قنوات خلف خزائن الأمتعة العلوية، فيدخل الهواء المقصورة من الأعلى وينساب نزولاً بين الركاب ثم يخرج عبر شبكات عند مستوى الأرضية.",
+          "ولقمرة القيادة قناة إمداد خاصة حتى تُضبط حرارتها على حدة."
+        ]
+      }
+    },
+    {
+      "id": "air-wing-anti-ice",
+      "kind": "component",
+      "system": "air",
+      "name": {
+        "en": "Wing anti-ice",
+        "ar": "منع التجمد على الجناح"
+      },
+      "short": {
+        "en": "Hot bleed air heats the three outboard slats on each wing.",
+        "ar": "يسخّن الهواء الساخن المسحوب الشرائح الخارجية الثلاث في كل جناح."
+      },
+      "details": {
+        "en": [
+          "Ice on the leading edge spoils the airflow and reduces lift. When the crew selects wing anti-ice, a valve in each wing opens and hot air flows inside slats 3, 4 and 5."
+        ],
+        "ar": [
+          "يُفسد الجليد على الحافة الأمامية انسياب الهواء ويقلل الرفع، وعندما يشغّل الطاقم منع التجمد على الجناح يُفتح صمام في كل جناح فيتدفق الهواء الساخن داخل الشرائح 3 و4 و5."
+        ]
+      },
+      "location": {
+        "en": "Wing leading edge, outboard",
+        "ar": "الحافة الأمامية للجناح، الجزء الخارجي"
+      }
+    },
+    {
+      "id": "air-outflow-valve",
+      "kind": "component",
+      "system": "air",
+      "name": {
+        "en": "Outflow valve",
+        "ar": "صمام التدفق الخارج (Outflow Valve)"
+      },
+      "short": {
+        "en": "Controls cabin pressure by setting how fast air leaves the fuselage.",
+        "ar": "يتحكم في ضغط المقصورة بتحديد سرعة خروج الهواء من جسم الطائرة."
+      },
+      "details": {
+        "en": [
+          "The packs blow air in continuously. Opening the valve lets more out and lowers cabin pressure. Closing it raises the pressure.",
+          "Two automatic cabin pressure controllers drive the valve, and the crew can also move it manually."
+        ],
+        "ar": [
+          "تضخ وحدات التكييف الهواء إلى الداخل باستمرار، وفتح الصمام يسمح بخروج هواء أكثر فينخفض ضغط المقصورة، وإغلاقه يرفع الضغط.",
+          "يحرّك الصمام حاسوبان تلقائيان للتحكم في ضغط المقصورة، ويمكن للطاقم تحريكه يدوياً أيضاً."
+        ]
+      },
+      "location": {
+        "en": "Lower right of the rear fuselage",
+        "ar": "الجزء السفلي الأيمن من مؤخرة جسم الطائرة"
+      }
+    },
+    {
+      "id": "air-safety-valves",
+      "kind": "component",
+      "system": "air",
+      "name": {
+        "en": "Pressure safety valves",
+        "ar": "صمامات أمان الضغط"
+      },
+      "short": {
+        "en": "Two valves that protect the fuselage from too much pressure.",
+        "ar": "صمامان يحميان جسم الطائرة من الضغط الزائد."
+      },
+      "details": {
+        "en": [
+          "They work on their own, with no computer. They open if the cabin pressure is too far above the outside pressure (about 8.6 psi), or if the outside pressure becomes higher than the cabin's."
+        ],
+        "ar": [
+          "يعملان ذاتياً دون حاسوب، ويُفتحان إذا تجاوز ضغط المقصورة الضغط الخارجي بفارق كبير (نحو 8.6 رطل/بوصة²)، أو إذا أصبح الضغط الخارجي أعلى من ضغط المقصورة."
+        ]
+      },
+      "location": {
+        "en": "Aft pressure bulkhead",
+        "ar": "الحاجز الضاغط الخلفي"
+      }
+    },
+    {
+      "id": "fc-spoilers",
+      "kind": "exterior",
+      "system": "flight-controls",
+      "name": {
+        "en": "Spoilers",
+        "ar": "مُفسدات الرفع (Spoilers)"
+      },
+      "short": {
+        "en": "Five panels on top of each wing that rise to reduce lift and add drag.",
+        "ar": "خمسة ألواح فوق كل جناح ترتفع لتقليل الرفع وزيادة المقاومة."
+      },
+      "details": {
+        "en": [
+          "They do three jobs. All five act as ground spoilers on landing, pressing the wheels onto the runway. Panels 2, 3 and 4 are the speed brakes in flight. Panels 2 to 5 help the ailerons roll the aircraft.",
+          "Each panel has one hydraulic actuator, and the panels are shared between the three hydraulic systems."
+        ],
+        "ar": [
+          "تؤدي ثلاث مهام: تعمل الألواح الخمسة كلها مُفسدات أرضية عند الهبوط فتضغط العجلات على المدرج، وتعمل الألواح 2 و3 و4 مكابح هوائية أثناء الطيران، وتساعد الألواح من 2 إلى 5 الجنيحات في إمالة الطائرة.",
+          "ولكل لوح مشغّل هيدروليكي واحد، وتتوزع الألواح على الأنظمة الهيدروليكية الثلاثة."
+        ]
+      },
+      "location": {
+        "en": "Upper wing surface, ahead of the flaps",
+        "ar": "السطح العلوي للجناح، أمام القلابات"
+      }
+    },
+    {
+      "id": "fc-sidesticks",
+      "kind": "component",
+      "system": "flight-controls",
+      "name": {
+        "en": "Side-sticks",
+        "ar": "عصا التحكم الجانبية (Side-stick)"
+      },
+      "short": {
+        "en": "The pilots' pitch and roll controls, sending electrical signals only.",
+        "ar": "أداة تحكم الطيارين في الميل الطولي والميلان، وترسل إشارات كهربائية فقط."
+      },
+      "details": {
+        "en": [
+          "There is no mechanical link from the stick to the control surfaces. The stick tells the computers what the pilot wants, and the computers move the surfaces.",
+          "The two sticks are not linked to each other. If both are moved, the inputs are added, and a button on each stick lets one pilot take priority."
+        ],
+        "ar": [
+          "لا يوجد رابط ميكانيكي بين العصا وأسطح التحكم، فالعصا تُبلغ الحواسيب بما يريده الطيار، والحواسيب تحرّك الأسطح.",
+          "والعصوان غير مرتبطتين ببعضهما، فإذا حُرّكتا معاً جُمعت الإشارتان، ويسمح زر على كل عصا لأحد الطيارين بأخذ الأولوية."
+        ]
+      },
+      "location": {
+        "en": "Cockpit side consoles",
+        "ar": "اللوحتان الجانبيتان في قمرة القيادة"
+      }
+    },
+    {
+      "id": "fc-pedals",
+      "kind": "component",
+      "system": "flight-controls",
+      "name": {
+        "en": "Rudder pedals",
+        "ar": "دواسات الدفة"
+      },
+      "short": {
+        "en": "Move the rudder, steer on the runway, and apply the wheel brakes.",
+        "ar": "تحرّك الدفة وتوجّه الطائرة على المدرج وتشغّل مكابح العجلات."
+      },
+      "details": {
+        "en": [
+          "The pedals are linked to the rudder actuators by cables, so the rudder can still be moved if the flight control computers are lost.",
+          "Pressing the top of the pedals applies the brakes on that side."
+        ],
+        "ar": [
+          "ترتبط الدواسات بمشغّلات الدفة عبر كابلات، فيمكن تحريك الدفة حتى لو فُقدت حواسيب التحكم بالطيران.",
+          "والضغط على أعلى الدواسة يشغّل مكابح ذلك الجانب."
+        ]
+      },
+      "location": {
+        "en": "Cockpit floor",
+        "ar": "أرضية قمرة القيادة"
+      }
+    },
+    {
+      "id": "fc-elac",
+      "kind": "component",
+      "system": "flight-controls",
+      "name": {
+        "en": "ELAC computers (2)",
+        "ar": "حاسوبا ELAC"
+      },
+      "short": {
+        "en": "Elevator Aileron Computers: normal control of pitch and roll.",
+        "ar": "حاسوبا الروافع والجنيحات: التحكم العادي في الميل الطولي والميلان."
+      },
+      "details": {
+        "en": [
+          "The two ELACs command the elevators, ailerons and the horizontal stabiliser in normal operation. One is active and the other is ready to take over.",
+          "They also apply the flight envelope protections that stop the aircraft stalling or exceeding its load limits."
+        ],
+        "ar": [
+          "يتحكم حاسوبا ELAC في الروافع والجنيحات والمثبت الأفقي في التشغيل العادي، ويكون أحدهما نشطاً والآخر جاهزاً لتولي المهمة.",
+          "ويطبّقان أيضاً حمايات حدود الطيران التي تمنع انهيار الطائرة أو تجاوز حدود الأحمال."
+        ]
+      },
+      "location": {
+        "en": "Avionics compartment",
+        "ar": "حجرة الإلكترونيات"
+      }
+    },
+    {
+      "id": "fc-sec",
+      "kind": "component",
+      "system": "flight-controls",
+      "name": {
+        "en": "SEC computers (3)",
+        "ar": "حواسيب SEC الثلاثة"
+      },
+      "short": {
+        "en": "Spoiler Elevator Computers: spoilers, plus backup pitch control.",
+        "ar": "حواسيب مُفسدات الرفع والروافع: التحكم في المُفسدات واحتياطي للميل الطولي."
+      },
+      "details": {
+        "en": [
+          "The three SECs control all the spoilers. If both ELACs fail, the SECs take over the elevators and the horizontal stabiliser."
+        ],
+        "ar": [
+          "تتحكم حواسيب SEC الثلاثة في جميع مُفسدات الرفع، وإذا تعطل حاسوبا ELAC تولّت التحكم في الروافع والمثبت الأفقي."
+        ]
+      },
+      "location": {
+        "en": "Avionics compartment",
+        "ar": "حجرة الإلكترونيات"
+      }
+    },
+    {
+      "id": "fc-fac",
+      "kind": "component",
+      "system": "flight-controls",
+      "name": {
+        "en": "FAC computers (2)",
+        "ar": "حاسوبا FAC"
+      },
+      "short": {
+        "en": "Flight Augmentation Computers: electrical control of the rudder.",
+        "ar": "حاسوبا تعزيز الطيران: التحكم الكهربائي في الدفة."
+      },
+      "details": {
+        "en": [
+          "The FACs damp yaw oscillations, coordinate turns, trim the rudder and limit how far it can move at high speed.",
+          "They also compute the speed limits shown on the pilots' displays."
+        ],
+        "ar": [
+          "يخمّد حاسوبا FAC تذبذبات الانعراج وينسّقان الانعطاف ويوازنان الدفة ويحدّان من مدى حركتها عند السرعات العالية.",
+          "ويحسبان أيضاً حدود السرعة المعروضة على شاشات الطيارين."
+        ]
+      },
+      "location": {
+        "en": "Avionics compartment",
+        "ar": "حجرة الإلكترونيات"
+      }
+    },
+    {
+      "id": "fc-signal-wiring",
+      "kind": "component",
+      "system": "flight-controls",
+      "name": {
+        "en": "Fly-by-wire signal wiring",
+        "ar": "أسلاك إشارات التحكم (Fly-by-Wire)"
+      },
+      "short": {
+        "en": "Electrical cables from the computers to the actuators at each surface.",
+        "ar": "كابلات كهربائية من الحواسيب إلى المشغّلات عند كل سطح."
+      },
+      "details": {
+        "en": [
+          "The computers send position commands as electrical signals. A hydraulic servo actuator at the surface provides the force and reports its position back.",
+          "Cables for different computers follow separate routes, so one event cannot cut them all."
+        ],
+        "ar": [
+          "ترسل الحواسيب أوامر الوضع على هيئة إشارات كهربائية، ويوفّر مشغّل هيدروليكي مؤازر عند السطح القوة ويرسل وضعه إلى الحاسوب.",
+          "وتسلك كابلات الحواسيب المختلفة مسارات منفصلة، حتى لا يقطعها كلها حادث واحد."
+        ]
+      }
+    },
+    {
+      "id": "fc-slat-pcu",
+      "kind": "component",
+      "system": "flight-controls",
+      "name": {
+        "en": "Slat power control unit",
+        "ar": "وحدة تحريك الشرائح الأمامية (PCU)"
+      },
+      "short": {
+        "en": "Two hydraulic motors that drive all the slats together.",
+        "ar": "محركان هيدروليكيان يحرّكان جميع الشرائح الأمامية معاً."
+      },
+      "details": {
+        "en": [
+          "One motor runs on the Green system and the other on the Blue. If one system is lost, the slats still move at half speed.",
+          "Two slat and flap control computers command the unit from the position of the flap lever."
+        ],
+        "ar": [
+          "يعمل أحد المحركين بالنظام الأخضر والآخر بالأزرق، وإذا فُقد أحد النظامين ظلت الشرائح تتحرك بنصف السرعة.",
+          "ويتحكم في الوحدة حاسوبان للشرائح والقلابات بحسب وضع ذراع القلابات."
+        ]
+      },
+      "location": {
+        "en": "Centre fuselage, ahead of the wing box",
+        "ar": "وسط جسم الطائرة، أمام صندوق الجناح"
+      }
+    },
+    {
+      "id": "fc-flap-pcu",
+      "kind": "component",
+      "system": "flight-controls",
+      "name": {
+        "en": "Flap power control unit",
+        "ar": "وحدة تحريك القلابات (PCU)"
+      },
+      "short": {
+        "en": "Two hydraulic motors that drive all the flaps together.",
+        "ar": "محركان هيدروليكيان يحرّكان جميع القلابات معاً."
+      },
+      "details": {
+        "en": [
+          "One motor runs on the Green system and the other on the Yellow. Driving both wings from one unit keeps the left and right flaps at the same angle."
+        ],
+        "ar": [
+          "يعمل أحد المحركين بالنظام الأخضر والآخر بالأصفر، وتحريك الجناحين من وحدة واحدة يُبقي القلابات اليمنى واليسرى عند الزاوية نفسها."
+        ]
+      },
+      "location": {
+        "en": "Main gear bay",
+        "ar": "تجويف العجلات الرئيسية"
+      }
+    },
+    {
+      "id": "fc-torque-shafts",
+      "kind": "component",
+      "system": "flight-controls",
+      "name": {
+        "en": "Slat and flap torque shafts",
+        "ar": "أعمدة الدوران للشرائح والقلابات"
+      },
+      "short": {
+        "en": "Rotating shafts along each wing that carry the drive to every slat and flap.",
+        "ar": "أعمدة دوّارة على طول كل جناح تنقل الحركة إلى كل شريحة وقلاب."
+      },
+      "details": {
+        "en": [
+          "At each track a gearbox turns the shaft's rotation into movement of the surface. Brakes near the wingtips lock the shafts if the two sides move unequally, to prevent an uncontrollable roll."
+        ],
+        "ar": [
+          "عند كل مسار يحوّل صندوق تروس دوران العمود إلى حركة للسطح، وتقفل مكابح قرب طرفي الجناحين الأعمدة إذا تحرك الجانبان بشكل غير متساوٍ، لمنع ميلان لا يمكن التحكم فيه."
+        ]
+      }
+    },
+    {
+      "id": "fc-mech-backup",
+      "kind": "component",
+      "system": "flight-controls",
+      "name": {
+        "en": "Mechanical backup cables",
+        "ar": "كابلات الاحتياطي الميكانيكي"
+      },
+      "short": {
+        "en": "Cables to the stabiliser trim and the rudder that need no computers.",
+        "ar": "كابلات إلى موازنة المثبت الأفقي والدفة لا تحتاج إلى حواسيب."
+      },
+      "details": {
+        "en": [
+          "If all the flight control computers were lost, the pilots could still control pitch with the trim wheels and yaw with the rudder pedals, as long as hydraulic power is available.",
+          "This is enough to keep the aircraft steady while the crew restores a computer."
+        ],
+        "ar": [
+          "إذا فُقدت جميع حواسيب التحكم بالطيران، يستطيع الطياران التحكم في الميل الطولي بعجلات الموازنة وفي الانعراج بدواسات الدفة، ما دامت القدرة الهيدروليكية متوفرة.",
+          "وهذا يكفي للحفاظ على ثبات الطائرة ريثما يستعيد الطاقم أحد الحواسيب."
+        ]
+      }
+    },
+    {
+      "id": "gs-oxygen-fill",
+      "kind": "component",
+      "system": "ground",
+      "name": {
+        "en": "Crew oxygen servicing point",
+        "ar": "نقطة خدمة أكسجين الطاقم"
+      },
+      "short": {
+        "en": "Access door for refilling the crew oxygen cylinder.",
+        "ar": "باب الوصول لإعادة تعبئة أسطوانة أكسجين الطاقم."
+      },
+      "details": {
+        "en": [
+          "It is 3.45 m aft of the nose, 1.15 m left of the centreline and about 2.6 m above the ground."
+        ],
+        "ar": [
+          "يقع على بُعد 3.45 متر من مقدمة الطائرة و1.15 متر يسار محور الطائرة، وعلى ارتفاع نحو 2.6 متر عن الأرض."
+        ]
+      },
+      "location": {
+        "en": "Lower left of the nose section",
+        "ar": "الجزء السفلي الأيسر من مقدمة الطائرة"
+      }
+    },
+    {
+      "id": "gs-potable-water",
+      "kind": "component",
+      "system": "ground",
+      "name": {
+        "en": "Potable water service panel",
+        "ar": "لوحة خدمة مياه الشرب"
+      },
+      "short": {
+        "en": "Fill and drain point for the drinking water tank.",
+        "ar": "نقطة ملء وتصريف خزان مياه الشرب."
+      },
+      "details": {
+        "en": [
+          "It is 31.3 m aft of the nose, 0.3 m left of the centreline and about 2.6 m above the ground. A separate drain panel is under the centre fuselage."
+        ],
+        "ar": [
+          "تقع على بُعد 31.3 متر من مقدمة الطائرة و0.3 متر يسار محور الطائرة، وعلى ارتفاع نحو 2.6 متر عن الأرض، وتوجد لوحة تصريف منفصلة أسفل وسط جسم الطائرة."
+        ]
+      },
+      "location": {
+        "en": "Under the rear fuselage",
+        "ar": "أسفل مؤخرة جسم الطائرة"
+      }
+    },
+    {
+      "id": "gs-waste-service",
+      "kind": "component",
+      "system": "ground",
+      "name": {
+        "en": "Waste service panel",
+        "ar": "لوحة خدمة الفضلات"
+      },
+      "short": {
+        "en": "Where the lavatory truck drains and rinses the waste tank.",
+        "ar": "النقطة التي تفرّغ منها عربة الخدمة خزان الفضلات وتشطفه."
+      },
+      "details": {
+        "en": [
+          "It is 31.3 m aft of the nose, 0.8 m right of the centreline and about 2.8 m above the ground. It has a 4-inch drain connection and a 1-inch rinse connection."
+        ],
+        "ar": [
+          "تقع على بُعد 31.3 متر من مقدمة الطائرة و0.8 متر يمين محور الطائرة، وعلى ارتفاع نحو 2.8 متر عن الأرض، وفيها وصلة تصريف بقطر 4 بوصات ووصلة شطف بقطر بوصة واحدة."
+        ]
+      },
+      "location": {
+        "en": "Under the rear fuselage",
+        "ar": "أسفل مؤخرة جسم الطائرة"
+      }
+    }
+  ]
+}

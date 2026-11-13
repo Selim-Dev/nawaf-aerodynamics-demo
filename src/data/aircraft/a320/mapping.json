@@ -1,0 +1,81 @@
+{
+  "fallback": "fuselage",
+  "entries": [
+    {
+      "partId": "radome",
+      "meshes": ["Cylinder.039", "Cylinder.040", "Cylinder.041"],
+      "volumes": [{ "shape": "box", "center": [0.85, 4.0, 0], "size": [1.8, 6, 6], "meshes": ["Cylinder.027"] }],
+      "anchor": [0.6, 3.9, 0.8]
+    },
+    {
+      "partId": "cockpit",
+      "meshes": ["Cylinder.005", "Cube.009", "Cylinder.021", "Cube.030", "Cylinder.007", "Cylinder.006"],
+      "volumes": [{ "shape": "box", "center": [3.1, 5.6, 0], "size": [2.7, 2.6, 5], "meshes": ["Cylinder.027"] }],
+      "anchor": [3.0, 5.2, 1.0]
+    },
+    {
+      "partId": "apu",
+      "meshes": ["Cylinder.002", "Cylinder.003", "Cylinder.004"],
+      "volumes": [{ "shape": "box", "center": [37.0, 5.0, 0], "size": [2.6, 4, 4], "meshes": ["Cylinder.027"] }],
+      "anchor": [37.0, 5.3, 0.3]
+    },
+    {
+      "partId": "fuselage",
+      "meshes": ["Cylinder.027", "Cylinder.009", "Cylinder.015"],
+      "anchor": [21.0, 5.95, 0.8]
+    },
+    { "partId": "passenger-doors", "meshes": ["Cylinder.012", "Cylinder.013", "Cylinder.014"], "anchor": [5.05, 4.5, 2.05] },
+    { "partId": "emergency-exits", "meshes": ["Cylinder.010"], "anchor": [14.95, 4.5, 2.05] },
+    { "partId": "cargo-doors", "meshes": ["Cylinder.016"], "anchor": [8.2, 2.7, -1.75] },
+    {
+      "partId": "wings",
+      "meshes": ["Cylinder.076", "Cylinder.119", "Cylinder.122", "Cube", "Cube.003", "Cube.004", "Cube.005", "Cube.013", "Cube.014", "Cube.015", "Cube.016"],
+      "anchor": [17.2, 3.75, 10.2]
+    },
+    { "partId": "wingtips", "meshes": ["Plane", "Cube.023"], "anchor": [22.1, 4.7, 17.1] },
+    {
+      "partId": "slats",
+      "meshes": ["Cylinder.123", "Cylinder.124", "Cylinder.125", "Cylinder.126", "Cylinder.127", "Cylinder.128", "Cylinder.129", "Cylinder.130", "Cylinder.131", "Cylinder.132"],
+      "anchor": [18.1, 4.0, 12.6]
+    },
+    { "partId": "flaps", "meshes": ["Cylinder.107", "Cylinder.108", "Cylinder.118"], "anchor": [18.4, 3.25, 4.4] },
+    {
+      "partId": "fc-spoilers",
+      "meshes": ["Cylinder.101", "Cylinder.102", "Cylinder.103", "Cylinder.104", "Cylinder.105", "Cylinder.106", "Cylinder.110", "Cylinder.111", "Cylinder.112", "Cylinder.113", "Cylinder.114", "Cylinder.115", "Cylinder.116", "Cylinder.117"],
+      "anchor": [18.45, 3.8, 7.8]
+    },
+    { "partId": "ailerons", "meshes": ["Cylinder.120", "Cylinder.121"], "anchor": [21.1, 4.2, 14.6] },
+    {
+      "partId": "rudder",
+      "volumes": [{ "shape": "box", "center": [36.39, 8.57, 0], "size": [3.0, 7.0, 1.2], "rotation": [0, 0, -25], "meshes": ["Cylinder.001"] }],
+      "anchor": [35.9, 8.8, 0.2]
+    },
+    { "partId": "vertical-stabilizer", "meshes": ["Cylinder.001"], "anchor": [32.9, 8.6, 0.2] },
+    {
+      "partId": "elevators",
+      "volumes": [{ "shape": "box", "center": [36.64, 5.1, 3.16], "size": [2.5, 1.4, 6.0], "rotation": [0, 20.8, 0], "mirror": true, "meshes": ["Cylinder.011"] }],
+      "anchor": [36.0, 5.25, 3.6]
+    },
+    { "partId": "horizontal-stabilizer", "meshes": ["Cylinder.011"], "anchor": [34.2, 5.15, 3.2] },
+    {
+      "partId": "engine-1",
+      "volumes": [{ "shape": "box", "center": [15.0, 1.95, 5.8], "size": [8.0, 3.1, 2.9] }],
+      "anchor": [12.6, 3.05, 5.75]
+    },
+    {
+      "partId": "engine-2",
+      "volumes": [{ "shape": "box", "center": [15.0, 1.95, -5.8], "size": [8.0, 3.1, 2.9] }],
+      "anchor": [12.6, 3.05, -5.75]
+    },
+    {
+      "partId": "nose-gear",
+      "volumes": [{ "shape": "box", "center": [5.15, 1.05, 0], "size": [1.7, 2.2, 1.5] }],
+      "anchor": [5.1, 1.0, 0.45]
+    },
+    {
+      "partId": "main-gear",
+      "volumes": [{ "shape": "box", "center": [17.8, 1.5, 0], "size": [2.4, 3.4, 9.4] }],
+      "anchor": [17.8, 1.4, 4.5]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+node_modules
+dist
+assets-src/*
+!assets-src/README.md
+*.local
+.screenshots
+.vercel

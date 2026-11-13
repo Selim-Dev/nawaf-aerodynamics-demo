@@ -1,0 +1,446 @@
+{
+  "id": "a320",
+  "name": {
+    "en": "Airbus A320",
+    "ar": "إيرباص A320"
+  },
+  "manufacturer": {
+    "en": "Airbus",
+    "ar": "إيرباص"
+  },
+  "designation": "A320",
+  "tagline": {
+    "en": "Single-aisle, twin-engine jet airliner",
+    "ar": "طائرة نفاثة بممر واحد ومحركين"
+  },
+  "highlights": [
+    { "label": { "en": "Length", "ar": "الطول" }, "value": { "en": "37.57 m", "ar": "37.57 م" } },
+    { "label": { "en": "Wingspan", "ar": "امتداد الجناحين" }, "value": { "en": "34.10 m", "ar": "34.10 م" } },
+    { "label": { "en": "Height", "ar": "الارتفاع" }, "value": { "en": "11.76 m", "ar": "11.76 م" } },
+    { "label": { "en": "Seats", "ar": "المقاعد" }, "value": { "en": "180", "ar": "180" } },
+    { "label": { "en": "Max take-off", "ar": "أقصى وزن للإقلاع" }, "value": { "en": "78 t", "ar": "78 طناً" } },
+    { "label": { "en": "Max Mach", "ar": "أقصى رقم ماخ" }, "value": { "en": "0.82", "ar": "0.82" } }
+  ],
+  "model": "aircraft/a320/model.glb",
+  "frame": {
+    "scale": 0.21075,
+    "rotation": [
+      0,
+      0,
+      0
+    ],
+    "offset": [
+      15.697,
+      0.059,
+      0
+    ]
+  },
+  "camera": {
+    "position": [
+      -19,
+      17,
+      46
+    ],
+    "target": [
+      18,
+      3.8,
+      0
+    ],
+    "fov": 38
+  },
+  "surfaces": {
+    "wing": {
+      "rootLE": [
+        11.9,
+        2.77,
+        1.2
+      ],
+      "rootChord": 5.43,
+      "tipLE": [
+        20.35,
+        4.29,
+        17.1
+      ],
+      "tipChord": 1.87,
+      "thickness": [
+        0.15,
+        0.1
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "mirror": true
+    },
+    "hstab": {
+      "rootLE": [
+        31.3,
+        4.8,
+        0.6
+      ],
+      "rootChord": 4.45,
+      "tipLE": [
+        35.5,
+        5.35,
+        6.3
+      ],
+      "tipChord": 1.48,
+      "thickness": [
+        0.08,
+        0.06
+      ],
+      "normal": [
+        0,
+        1,
+        0
+      ],
+      "mirror": true
+    },
+    "fin": {
+      "rootLE": [
+        28.6,
+        5.75,
+        0
+      ],
+      "rootChord": 6.98,
+      "tipLE": [
+        34.71,
+        12,
+        0
+      ],
+      "tipChord": 2.36,
+      "thickness": [
+        0.09,
+        0.08
+      ],
+      "normal": [
+        0,
+        0,
+        1
+      ]
+    }
+  },
+  "fuselage": {
+    "yc": 4,
+    "r": 1.98,
+    "ky": 1.06,
+    "from": 6,
+    "to": 24,
+    "floor": 3.5
+  },
+  "credits": [
+    {
+      "title": "Airbus A320-200",
+      "author": "fDlruosne",
+      "license": "CC BY 4.0",
+      "url": "https://sketchfab.com/3d-models/02470bf974e645f78f5d9385a333e9e0"
+    }
+  ],
+  "disclaimer": {
+    "en": "Training illustration. The exterior is a third-party 3D model (see credits). Dimensions and service-point positions follow Airbus's public airport-planning data. Internal layouts and system routing are simplified and are not for maintenance use.",
+    "ar": "رسم توضيحي لأغراض التدريب. الشكل الخارجي نموذج ثلاثي الأبعاد من طرف ثالث (انظر المصادر). الأبعاد ومواقع نقاط الخدمة مأخوذة من بيانات إيرباص المنشورة لتخطيط المطارات، أما التخطيط الداخلي ومسارات الأنظمة فمبسطة ولا تُستخدم لأعمال الصيانة."
+  },
+  "specs": [
+    {
+      "title": {
+        "en": "Dimensions",
+        "ar": "الأبعاد"
+      },
+      "rows": [
+        {
+          "label": {
+            "en": "Overall length",
+            "ar": "الطول الكلي"
+          },
+          "value": {
+            "en": "37.57 m",
+            "ar": "37.57 م"
+          }
+        },
+        {
+          "label": {
+            "en": "Wingspan (sharklets)",
+            "ar": "امتداد الجناحين (مع Sharklets)"
+          },
+          "value": {
+            "en": "35.80 m",
+            "ar": "35.80 م"
+          }
+        },
+        {
+          "label": {
+            "en": "Wingspan (wingtip fences)",
+            "ar": "امتداد الجناحين (بحواجز الأطراف)"
+          },
+          "value": {
+            "en": "34.10 m",
+            "ar": "34.10 م"
+          }
+        },
+        {
+          "label": {
+            "en": "Height",
+            "ar": "الارتفاع"
+          },
+          "value": {
+            "en": "11.76 m",
+            "ar": "11.76 م"
+          }
+        },
+        {
+          "label": {
+            "en": "Fuselage width",
+            "ar": "عرض جسم الطائرة"
+          },
+          "value": {
+            "en": "3.95 m",
+            "ar": "3.95 م"
+          }
+        },
+        {
+          "label": {
+            "en": "Tailplane span",
+            "ar": "امتداد المثبت الأفقي"
+          },
+          "value": {
+            "en": "12.45 m",
+            "ar": "12.45 م"
+          }
+        },
+        {
+          "label": {
+            "en": "Wheelbase",
+            "ar": "قاعدة العجلات"
+          },
+          "value": {
+            "en": "12.64 m",
+            "ar": "12.64 م"
+          }
+        },
+        {
+          "label": {
+            "en": "Main gear track",
+            "ar": "المسافة بين العجلات الرئيسية"
+          },
+          "value": {
+            "en": "7.59 m",
+            "ar": "7.59 م"
+          }
+        },
+        {
+          "label": {
+            "en": "Engine to centreline",
+            "ar": "بُعد المحرك عن محور الطائرة"
+          },
+          "value": {
+            "en": "5.75 m",
+            "ar": "5.75 م"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Cabin and cargo",
+        "ar": "المقصورة والشحن"
+      },
+      "rows": [
+        {
+          "label": {
+            "en": "Cabin length",
+            "ar": "طول المقصورة"
+          },
+          "value": {
+            "en": "27.51 m",
+            "ar": "27.51 م"
+          }
+        },
+        {
+          "label": {
+            "en": "Max cabin width",
+            "ar": "أقصى عرض للمقصورة"
+          },
+          "value": {
+            "en": "3.70 m",
+            "ar": "3.70 م"
+          }
+        },
+        {
+          "label": {
+            "en": "Seats, single class",
+            "ar": "المقاعد، درجة واحدة"
+          },
+          "value": {
+            "en": "180 (6 abreast)",
+            "ar": "180 (6 في الصف)"
+          }
+        },
+        {
+          "label": {
+            "en": "Seats, two class",
+            "ar": "المقاعد، درجتان"
+          },
+          "value": {
+            "en": "150 (12 + 138)",
+            "ar": "150 (12 + 138)"
+          }
+        },
+        {
+          "label": {
+            "en": "Forward cargo hold",
+            "ar": "عنبر الشحن الأمامي"
+          },
+          "value": {
+            "en": "13.28 m³, 3 containers",
+            "ar": "13.28 م³، 3 حاويات"
+          }
+        },
+        {
+          "label": {
+            "en": "Aft cargo hold",
+            "ar": "عنبر الشحن الخلفي"
+          },
+          "value": {
+            "en": "18.26 m³, 4 containers",
+            "ar": "18.26 م³، 4 حاويات"
+          }
+        },
+        {
+          "label": {
+            "en": "Bulk hold",
+            "ar": "عنبر البضائع السائبة"
+          },
+          "value": {
+            "en": "5.88 m³",
+            "ar": "5.88 م³"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Weights and fuel",
+        "ar": "الأوزان والوقود"
+      },
+      "rows": [
+        {
+          "label": {
+            "en": "Max take-off weight",
+            "ar": "أقصى وزن للإقلاع"
+          },
+          "value": {
+            "en": "up to 78 t",
+            "ar": "حتى 78 طناً"
+          }
+        },
+        {
+          "label": {
+            "en": "Max landing weight",
+            "ar": "أقصى وزن للهبوط"
+          },
+          "value": {
+            "en": "up to 66 t",
+            "ar": "حتى 66 طناً"
+          }
+        },
+        {
+          "label": {
+            "en": "Max zero-fuel weight",
+            "ar": "أقصى وزن بلا وقود"
+          },
+          "value": {
+            "en": "up to 62.5 t",
+            "ar": "حتى 62.5 طناً"
+          }
+        },
+        {
+          "label": {
+            "en": "Wing tanks (CFM)",
+            "ar": "خزانات الأجنحة (CFM)"
+          },
+          "value": {
+            "en": "15,959 L",
+            "ar": "15,959 لتراً"
+          }
+        },
+        {
+          "label": {
+            "en": "Centre tank",
+            "ar": "الخزان المركزي"
+          },
+          "value": {
+            "en": "8,250 L",
+            "ar": "8,250 لتراً"
+          }
+        },
+        {
+          "label": {
+            "en": "Total usable fuel",
+            "ar": "إجمالي الوقود القابل للاستخدام"
+          },
+          "value": {
+            "en": "24,209 L",
+            "ar": "24,209 لتراً"
+          }
+        }
+      ]
+    },
+    {
+      "title": {
+        "en": "Performance",
+        "ar": "الأداء"
+      },
+      "rows": [
+        {
+          "label": {
+            "en": "Range (sharklets)",
+            "ar": "المدى (مع Sharklets)"
+          },
+          "value": {
+            "en": "6,200 km",
+            "ar": "6,200 كم"
+          }
+        },
+        {
+          "label": {
+            "en": "Max operating Mach",
+            "ar": "أقصى رقم ماخ تشغيلي"
+          },
+          "value": {
+            "en": "M 0.82",
+            "ar": "0.82 ماخ"
+          }
+        },
+        {
+          "label": {
+            "en": "Engines (A320ceo)",
+            "ar": "المحركات (A320ceo)"
+          },
+          "value": {
+            "en": "CFM56-5B or IAE V2500",
+            "ar": "CFM56-5B أو IAE V2500"
+          }
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "Airbus, A320 Aircraft Characteristics - Airport and Maintenance Planning (rev. Jul 01/26)",
+      "url": "https://www.aircraft.airbus.com/en/customer-care/fleet-wide-care/airport-operations-and-aircraft-characteristics/aircraft-characteristics",
+      "note": {
+        "en": "Dimensions, ground clearances, door and cargo hold positions, cabin layout, tank and hold volumes, ground service connection positions.",
+        "ar": "الأبعاد والارتفاعات عن الأرض ومواقع الأبواب وعنابر الشحن وتخطيط المقصورة وأحجام الخزانات والعنابر ومواقع نقاط الخدمة الأرضية."
+      }
+    },
+    {
+      "title": "Airbus, A320ceo key figures",
+      "url": "https://aircraft.airbus.com/en/aircraft/a320-family/a320ceo",
+      "note": {
+        "en": "Height, cabin length and width, weights, range, MMO.",
+        "ar": "الارتفاع وطول المقصورة وعرضها والأوزان والمدى وأقصى رقم ماخ."
+      }
+    }
+  ]
+}

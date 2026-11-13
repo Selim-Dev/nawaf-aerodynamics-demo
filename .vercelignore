@@ -1,0 +1,8 @@
+# Files Vercel does not need to build the site. Leaving them out keeps the upload
+# small: assets-src/ alone holds about 50 MB of original model downloads.
+node_modules
+dist
+assets-src
+.vercel
+*.local
+.screenshots

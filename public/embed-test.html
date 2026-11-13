@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Embed test</title>
+    <style>
+      body { font: 16px/1.6 system-ui, sans-serif; margin: 0; color: #1d2733; background: #f3f5f8; }
+      main { max-width: 1100px; margin: 0 auto; padding: 24px 16px 80px; }
+      .viewer { width: 100%; height: min(720px, 80vh); border: 0; border-radius: 12px; box-shadow: 0 6px 24px rgba(0, 0, 0, 0.12); background: #0f1b2d; }
+      p { max-width: 70ch; }
+    </style>
+  </head>
+  <body>
+    <main>
+      <h1>Embed test: a training course page</h1>
+      <p>
+        This page checks that the explorer works inside an iframe on another site, from a sub-folder, and
+        that on a phone the page can still be scrolled past the 3D viewer (tap the viewer to start using it).
+      </p>
+      <iframe class="viewer" src="./index.html" title="Aircraft Explorer" allow="fullscreen" loading="lazy"></iframe>
+      <h2>Course text continues below</h2>
+      <p>Lorem ipsum filler so the page is long enough to scroll on a phone.</p>
+      <p style="height: 900px">…</p>
+    </main>
+  </body>
+</html>
